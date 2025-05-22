@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <block short="17">
+    <types>
+      <id short="0" namespace="minecraft:oak_log"/>  
+      <id short="1" namespace="minecraft:spruce_log"/>  
+      <id short="2" namespace="minecraft:birch_log"/>  
+      <id short="3" namespace="minecraft:jungle_log"/>  
+    </types>
+    <properties>
+      <id short="0" property=""/>
+      <id short="1" property=""/>
+      <id short="2" property=""/>
+      <id short="3" property=""/>
+    </properties>
+  </block>
+  <block short="162">
+    <types>
+      <id short="0" namespace="minecraft:acacie_log"/>
+      <id short="1" namespace="minecraft:dark_oak_log"/>
+    </types>
+    <properties>
+      <id short="0" property=""/>
+      <id short="1" property=""/>
+    </properties>
+  </block>
+  <block short="18">
+    <types>
+      <id short="0" namespace="minecraft:oak_leaves" />  
+      <id short="1" namespace="minecraft:spruce_leaves" />  
+      <id short="2" namespace="minecraft:birch_leaves" />  
+      <id short="3" namespace="minecraft:jungle_leaves" />  
+      <id short="4" namespace="minecraft:oak_leaves" properties="persistant:true"/>  
+      <id short="5" namespace="minecraft:spruce_leaves" properties="persistant:true"/>  
+      <id short="6" namespace="minecraft:birch_leaves" properties="persistant:true"/>  
+      <id short="7" namespace="minecraft:jungle_leaves" properties="persistant:true"/>  
+      <id short="8" namespace="minecraft:oak_leaves" />  
+      <id short="9" namespace="minecraft:spruce_leaves" />  
+      <id short="10" namespace="minecraft:birch_leaves" />  
+      <id short="11" namespace="minecraft:jungle_leaves" />  
+      <id short="12" namespace="minecraft:oak_leaves" properties="persistant:true"/>  
+      <id short="13" namespace="minecraft:spruce_leaves" properties="persistant:true"/>  
+      <id short="14" namespace="minecraft:birch_leaves" properties="persistant:true"/>  
+      <id short="15" namespace="minecraft:jungle_leaves" properties="persistant:true"/>  
+    </types>
+  </block>
+</root>

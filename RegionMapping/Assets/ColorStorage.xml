@@ -1,0 +1,1564 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <block>
+    <color namespace="minecraft:acacia_planks" hex="#A85A32" />
+    <color namespace="minecraft:acacia_slab" hex="#A85A32" />
+    <color namespace="minecraft:acacia_stairs" hex="#A85A32" />
+    <color namespace="minecraft:acacia_trapdoor" hex="#9C5733" />
+    <color namespace="minecraft:activator_rail" hex="#73574A" />
+    <color namespace="minecraft:andesite" hex="#888888" />
+    <color namespace="minecraft:andesite_slab" hex="#888888" />
+    <color namespace="minecraft:andesite_stairs" hex="#888888" />
+    <color namespace="minecraft:anvil" hex="#484848" />
+    <color namespace="minecraft:bamboo" hex="#6A9D23" />
+    <color namespace="minecraft:barrel" hex="#86643A" />
+    <color namespace="minecraft:beacon" hex="#75DCD7" />
+    <color namespace="minecraft:bedrock" hex="#555555" />
+    <color namespace="minecraft:bee_hive" hex="#B4925A" />
+    <color namespace="minecraft:bee_nest" hex="#CAA04A" />
+    <color namespace="minecraft:birch_planks" hex="#C0AF79" />
+    <color namespace="minecraft:birch_slab" hex="#C0AF79" />
+    <color namespace="minecraft:birch_stairs" hex="#C0AF79" />
+    <color namespace="minecraft:birch_trapdoor" hex="#CFC29D" />
+    <color namespace="minecraft:black_concrete" hex="#080A0F" />
+    <color namespace="minecraft:black_concrete_powder" hex="#191A1F" />
+    <color namespace="minecraft:black_glazed_terracotta" hex="#431E20" />
+    <color namespace="minecraft:black_shulker_box" hex="#19191D" />
+    <color namespace="minecraft:black_stained_glass" hex="#181818" />
+    <color namespace="minecraft:black_terracotta" hex="#251610" />
+    <color namespace="minecraft:black_wool" hex="#141519" />
+    <color namespace="minecraft:blast_furnace" hex="#505051" />
+    <color namespace="minecraft:blue_concrete" hex="#2C2E8F" />
+    <color namespace="minecraft:blue_concrete_powder" hex="#4649A6" />
+    <color namespace="minecraft:blue_glazed_terracotta" hex="#2F408B" />
+    <color namespace="minecraft:blue_ice" hex="#74A7FD" />
+    <color namespace="minecraft:blue_shulker_box" hex="#2B2D8C" />
+    <color namespace="minecraft:blue_stained_glass" hex="#324BB1" />
+    <color namespace="minecraft:blue_terracotta" hex="#4A3B5B" />
+    <color namespace="minecraft:blue_wool" hex="#35399D" />
+    <color namespace="minecraft:bone_block" hex="#D1CEB3" />
+    <color namespace="minecraft:bookshelf" hex="#A2824E" />
+    <color namespace="minecraft:brain_coral_block" hex="#CF5B9F" />
+    <color namespace="minecraft:bricks" hex="#966153" />
+    <color namespace="minecraft:brick_slab" hex="#966153" />
+    <color namespace="minecraft:brick_stairs" hex="#966153" />
+    <color namespace="minecraft:brown_concrete" hex="#603B1F" />
+    <color namespace="minecraft:brown_concrete_powder" hex="#7D5435" />
+    <color namespace="minecraft:brown_glazed_terracotta" hex="#776A55" />
+    <color namespace="minecraft:brown_mushroom_block" hex="#956F51" />
+    <color namespace="minecraft:brown_shulker_box" hex="#6A4223" />
+    <color namespace="minecraft:brown_stained_glass" hex="#654B32" />
+    <color namespace="minecraft:brown_terracotta" hex="#4D3323" />
+    <color namespace="minecraft:brown_wool" hex="#724728" />
+    <color namespace="minecraft:bubble_coral_block" hex="#A51AA2" />
+    <color namespace="minecraft:cactus" hex="#557F2B" />
+    <color namespace="minecraft:cake" hex="#F8DED6" />
+    <color namespace="minecraft:campfire" hex="#4F4A43" />
+    <color namespace="minecraft:cartography_table" hex="#685743" />
+    <color namespace="minecraft:cauldron" hex="#49484A" />
+    <color namespace="minecraft:chain_command_block" hex="#83A193" />
+    <color namespace="minecraft:chiseled_quartz_block" hex="#E7E2DA" />
+    <color namespace="minecraft:chiseled_red_sandstone" hex="#B5611F" />
+    <color namespace="minecraft:chiseled_sandstone" hex="#DFD6AA" />
+    <color namespace="minecraft:chiseled_stone_bricks" hex="#777677" />
+    <color namespace="minecraft:chorus_flower" hex="#977897" />
+    <color namespace="minecraft:chorus_plant" hex="#5D395D" />
+    <color namespace="minecraft:clay" hex="#A0A6B3" />
+    <color namespace="minecraft:coal_block" hex="#100F0F" />
+    <color namespace="minecraft:coal_ore" hex="#747474" />
+    <color namespace="minecraft:coarse_dirt" hex="#77553B" />
+    <color namespace="minecraft:cobblestone" hex="#7F7F7F" />
+    <color namespace="minecraft:cobblestone_slab" hex="#7F7F7F" />
+    <color namespace="minecraft:cobblestone_stairs" hex="#7F7F7F" />
+    <color namespace="minecraft:cobweb" hex="#E4E9EA" />
+    <color namespace="minecraft:command_block" hex="#B1856B" />
+    <color namespace="minecraft:comparator" hex="#A6A19F" />
+    <color namespace="minecraft:composter" hex="#70461F" />
+    <color namespace="minecraft:conduit" hex="#9F8B71" />
+    <color namespace="minecraft:cracked_stone_bricks" hex="#767576" />
+    <color namespace="minecraft:crafting_table" hex="#77492A" />
+    <color namespace="minecraft:cut_red_sandstone" hex="#B5611F" />
+    <color namespace="minecraft:cut_red_sandstone_slab" hex="#B5611F" />
+    <color namespace="minecraft:cut_sandstone" hex="#DFD6AA" />
+    <color namespace="minecraft:cut_sandstone_slab" hex="#DFD6AA" />
+    <color namespace="minecraft:cyan_concrete" hex="#157788" />
+    <color namespace="minecraft:cyan_concrete_powder" hex="#24939D" />
+    <color namespace="minecraft:cyan_glazed_terracotta" hex="#34767D" />
+    <color namespace="minecraft:cyan_shulker_box" hex="#147987" />
+    <color namespace="minecraft:cyan_stained_glass" hex="#4B7E98" />
+    <color namespace="minecraft:cyan_terracotta" hex="#565B5B" />
+    <color namespace="minecraft:cyan_wool" hex="#158991" />
+    <color namespace="minecraft:dark_oak_planks" hex="#422B14" />
+    <color namespace="minecraft:dark_oak_slab" hex="#422B14" />
+    <color namespace="minecraft:dark_oak_stairs" hex="#422B14" />
+    <color namespace="minecraft:dark_oak_trapdoor" hex="#4B3117" />
+    <color namespace="minecraft:dark_prismarine" hex="#335B4B" />
+    <color namespace="minecraft:dark_prismarine_slab" hex="#335B4B" />
+    <color namespace="minecraft:dark_prismarine_stairs" hex="#335B4B" />
+    <color namespace="minecraft:daylight_detector" hex="#82745E" />
+    <color namespace="minecraft:dead_brain_coral_block" hex="#7C7572" />
+    <color namespace="minecraft:dead_bubble_coral_block" hex="#837B77" />
+    <color namespace="minecraft:dead_bush" hex="#715228" />
+    <color namespace="minecraft:dead_fire_coral_block" hex="#837B77" />
+    <color namespace="minecraft:dead_horn_coral_block" hex="#857E7A" />
+    <color namespace="minecraft:dead_tube_coral_block" hex="#827B77" />
+    <color namespace="minecraft:detector_rail" hex="#7B685A" />
+    <color namespace="minecraft:diamond_block" hex="#62EDE4" />
+    <color namespace="minecraft:diamond_ore" hex="#7D8E8D" />
+    <color namespace="minecraft:diorite" hex="#BCBCBC" />
+    <color namespace="minecraft:diorite_slab" hex="#BCBCBC" />
+    <color namespace="minecraft:diorite_stairs" hex="#BCBCBC" />
+    <color namespace="minecraft:dirt" hex="#866043" />
+    <color namespace="minecraft:dispenser" hex="#7A7979" />
+    <color namespace="minecraft:dragon_egg" hex="#0C090F" />
+    <color namespace="minecraft:dried_kelp_block" hex="#323A26" />
+    <color namespace="minecraft:dropper" hex="#7A7979" />
+    <color namespace="minecraft:emerald_block" hex="#2ACB57" />
+    <color namespace="minecraft:emerald_ore" hex="#75887C" />
+    <color namespace="minecraft:enchanting_table" hex="#804B55" />
+    <color namespace="minecraft:end_portal_frame" hex="#5B7861" />
+    <color namespace="minecraft:end_stone" hex="#DBDE9E" />
+    <color namespace="minecraft:end_stone_bricks" hex="#DAE0A2" />
+    <color namespace="minecraft:end_stone_brick_slab" hex="#DAE0A2" />
+    <color namespace="minecraft:end_stone_brick_stairs" hex="#DAE0A2" />
+    <color namespace="minecraft:fire_coral_block" hex="#A3232E" />
+    <color namespace="minecraft:fletching_table" hex="#C5B485" />
+    <color namespace="minecraft:flower_pot" hex="#7C4435" />
+    <color namespace="minecraft:furnace" hex="#7F7F7F" />
+    <color namespace="minecraft:glass" hex="#AFD5DB" />
+    <color namespace="minecraft:glowstone" hex="#AB8354" />
+    <color namespace="minecraft:gold_block" hex="#F6D03D" />
+    <color namespace="minecraft:gold_ore" hex="#8F8C7D" />
+    <color namespace="minecraft:granite" hex="#956755" />
+    <color namespace="minecraft:granite_slab" hex="#956755" />
+    <color namespace="minecraft:granite_stairs" hex="#956755" />
+    <color namespace="minecraft:grass_path" hex="#947941" />
+    <color namespace="minecraft:gravel" hex="#837F7E" />
+    <color namespace="minecraft:gray_concrete" hex="#36393D" />
+    <color namespace="minecraft:gray_concrete_powder" hex="#4C5154" />
+    <color namespace="minecraft:gray_glazed_terracotta" hex="#535A5D" />
+    <color namespace="minecraft:gray_shulker_box" hex="#373A3E" />
+    <color namespace="minecraft:gray_stained_glass" hex="#4B4B4B" />
+    <color namespace="minecraft:gray_terracotta" hex="#392A23" />
+    <color namespace="minecraft:gray_wool" hex="#3E4447" />
+    <color namespace="minecraft:green_concrete" hex="#495B24" />
+    <color namespace="minecraft:green_concrete_powder" hex="#61772C" />
+    <color namespace="minecraft:green_glazed_terracotta" hex="#758E43" />
+    <color namespace="minecraft:green_shulker_box" hex="#4F641F" />
+    <color namespace="minecraft:green_stained_glass" hex="#657E32" />
+    <color namespace="minecraft:green_terracotta" hex="#4C532A" />
+    <color namespace="minecraft:green_wool" hex="#546D1B" />
+    <color namespace="minecraft:grindstone" hex="#8E8E8E" />
+    <color namespace="minecraft:hopper" hex="#4B4A4B" />
+    <color namespace="minecraft:horn_coral_block" hex="#D8C742" />
+    <color namespace="minecraft:ice" hex="#91B7FD" />
+    <color namespace="minecraft:iron_block" hex="#DCDCDC" />
+    <color namespace="minecraft:iron_ore" hex="#88827F" />
+    <color namespace="minecraft:iron_trapdoor" hex="#CACACA" />
+    <color namespace="minecraft:jack_o_lantern" hex="#C67618" />
+    <color namespace="minecraft:jigsaw" hex="#504551" />
+    <color namespace="minecraft:jukebox" hex="#5D402F" />
+    <color namespace="minecraft:jungle_planks" hex="#A07350" />
+    <color namespace="minecraft:jungle_slab" hex="#A07350" />
+    <color namespace="minecraft:jungle_stairs" hex="#A07350" />
+    <color namespace="minecraft:jungle_trapdoor" hex="#986E4D" />
+    <color namespace="minecraft:kelp" hex="#5C8332" />
+    <color namespace="minecraft:lapis_block" hex="#1E438C" />
+    <color namespace="minecraft:lapis_ore" hex="#636E84" />
+    <color namespace="minecraft:lava" hex="#D15711" />
+    <color namespace="minecraft:lectern" hex="#AD8953" />
+    <color namespace="minecraft:light_blue_concrete" hex="#2389C6" />
+    <color namespace="minecraft:light_blue_concrete_powder" hex="#4AB4D5" />
+    <color namespace="minecraft:light_blue_glazed_terracotta" hex="#5EA4D0" />
+    <color namespace="minecraft:light_blue_shulker_box" hex="#31A3D4" />
+    <color namespace="minecraft:light_blue_stained_glass" hex="#6598D7" />
+    <color namespace="minecraft:light_blue_terracotta" hex="#716C89" />
+    <color namespace="minecraft:light_blue_wool" hex="#3AAFD9" />
+    <color namespace="minecraft:light_gray_concrete" hex="#7D7D73" />
+    <color namespace="minecraft:light_gray_concrete_powder" hex="#9A9A94" />
+    <color namespace="minecraft:light_gray_glazed_terracotta" hex="#90A6A7" />
+    <color namespace="minecraft:light_gray_shulker_box" hex="#7C7C73" />
+    <color namespace="minecraft:light_gray_stained_glass" hex="#989898" />
+    <color namespace="minecraft:light_gray_terracotta" hex="#876A61" />
+    <color namespace="minecraft:light_gray_wool" hex="#8E8E86" />
+    <color namespace="minecraft:lime_concrete" hex="#5EA818" />
+    <color namespace="minecraft:lime_concrete_powder" hex="#7DBD29" />
+    <color namespace="minecraft:lime_glazed_terracotta" hex="#A2C537" />
+    <color namespace="minecraft:lime_shulker_box" hex="#63AC17" />
+    <color namespace="minecraft:lime_stained_glass" hex="#7ECC18" />
+    <color namespace="minecraft:lime_terracotta" hex="#677534" />
+    <color namespace="minecraft:lime_wool" hex="#70B919" />
+    <color namespace="minecraft:loom" hex="#8E775B" />
+    <color namespace="minecraft:magenta_concrete" hex="#A9309F" />
+    <color namespace="minecraft:magenta_concrete_powder" hex="#C053B8" />
+    <color namespace="minecraft:magenta_glazed_terracotta" hex="#D064BF" />
+    <color namespace="minecraft:magenta_shulker_box" hex="#AD36A3" />
+    <color namespace="minecraft:magenta_stained_glass" hex="#B14BD7" />
+    <color namespace="minecraft:magenta_terracotta" hex="#95586C" />
+    <color namespace="minecraft:magenta_wool" hex="#BD44B3" />
+    <color namespace="minecraft:magma_block" hex="#8C3D1E" />
+    <color namespace="minecraft:melon" hex="#6F901E" />
+    <color namespace="minecraft:mossy_cobblestone" hex="#6E765E" />
+    <color namespace="minecraft:mossy_cobblestone_slab" hex="#6E765E" />
+    <color namespace="minecraft:mossy_cobblestone_stairs" hex="#6E765E" />
+    <color namespace="minecraft:mossy_stone_bricks" hex="#737969" />
+    <color namespace="minecraft:mossy_stone_brick_slab" hex="#737969" />
+    <color namespace="minecraft:mossy_stone_brick_stairs" hex="#737969" />
+    <color namespace="minecraft:mushroom_stem" hex="#CBC4B9" />
+    <color namespace="minecraft:mycelium" hex="#6F6265" />
+    <color namespace="minecraft:netherrack" hex="#612626" />
+    <color namespace="minecraft:nether_bricks" hex="#2C151A" />
+    <color namespace="minecraft:nether_brick_slab" hex="#2C151A" />
+    <color namespace="minecraft:nether_brick_stairs" hex="#2C151A" />
+    <color namespace="minecraft:nether_quartz_ore" hex="#75413E" />
+    <color namespace="minecraft:nether_wart_block" hex="#720302" />
+    <color namespace="minecraft:note_block" hex="#583A28" />
+    <color namespace="minecraft:oak_planks" hex="#A2824E" />
+    <color namespace="minecraft:oak_slab" hex="#A2824E" />
+    <color namespace="minecraft:oak_stairs" hex="#A2824E" />
+    <color namespace="minecraft:oak_trapdoor" hex="#7C6338" />
+    <color namespace="minecraft:observer" hex="#626262" />
+    <color namespace="minecraft:obsidian" hex="#0F0A18" />
+    <color namespace="minecraft:orange_concrete" hex="#E06100" />
+    <color namespace="minecraft:orange_concrete_powder" hex="#E3831F" />
+    <color namespace="minecraft:orange_glazed_terracotta" hex="#9A935B" />
+    <color namespace="minecraft:orange_shulker_box" hex="#EA6A08" />
+    <color namespace="minecraft:orange_stained_glass" hex="#D77E32" />
+    <color namespace="minecraft:orange_terracotta" hex="#A15325" />
+    <color namespace="minecraft:orange_wool" hex="#F07613" />
+    <color namespace="minecraft:packed_ice" hex="#8DB4FA" />
+    <color namespace="minecraft:petrified_oak_slab" hex="#A2824E" />
+    <color namespace="minecraft:pink_concrete" hex="#D5658E" />
+    <color namespace="minecraft:pink_concrete_powder" hex="#E499B5" />
+    <color namespace="minecraft:pink_glazed_terracotta" hex="#EB9AB5" />
+    <color namespace="minecraft:pink_shulker_box" hex="#E6799D" />
+    <color namespace="minecraft:pink_stained_glass" hex="#F17EA4" />
+    <color namespace="minecraft:pink_terracotta" hex="#A14E4E" />
+    <color namespace="minecraft:pink_wool" hex="#ED8DAC" />
+    <color namespace="minecraft:piston" hex="#6E6860" />
+    <color namespace="minecraft:podzol" hex="#5B3F18" />
+    <color namespace="minecraft:polished_andesite" hex="#848685" />
+    <color namespace="minecraft:polished_andesite_slab" hex="#848685" />
+    <color namespace="minecraft:polished_andesite_stairs" hex="#848685" />
+    <color namespace="minecraft:polished_diorite" hex="#C0C1C2" />
+    <color namespace="minecraft:polished_diorite_slab" hex="#C0C1C2" />
+    <color namespace="minecraft:polished_diorite_stairs" hex="#C0C1C2" />
+    <color namespace="minecraft:polished_granite" hex="#9A6A59" />
+    <color namespace="minecraft:polished_granite_slab" hex="#9A6A59" />
+    <color namespace="minecraft:polished_granite_stairs" hex="#9A6A59" />
+    <color namespace="minecraft:powered_rail" hex="#896D4A" />
+    <color namespace="minecraft:prismarine" hex="#62A291" />
+    <color namespace="minecraft:prismarine_bricks" hex="#63AB9E" />
+    <color namespace="minecraft:prismarine_brick_slab" hex="#63AB9E" />
+    <color namespace="minecraft:prismarine_brick_stairs" hex="#63AB9E" />
+    <color namespace="minecraft:prismarine_slab" hex="#62A291" />
+    <color namespace="minecraft:prismarine_stairs" hex="#62A291" />
+    <color namespace="minecraft:pumpkin" hex="#C67618" />
+    <color namespace="minecraft:purple_concrete" hex="#641F9C" />
+    <color namespace="minecraft:purple_concrete_powder" hex="#8337B1" />
+    <color namespace="minecraft:purple_glazed_terracotta" hex="#6D3098" />
+    <color namespace="minecraft:purple_shulker_box" hex="#67209C" />
+    <color namespace="minecraft:purple_stained_glass" hex="#7E3EB1" />
+    <color namespace="minecraft:purple_terracotta" hex="#764656" />
+    <color namespace="minecraft:purple_wool" hex="#792AAC" />
+    <color namespace="minecraft:purpur_block" hex="#A97DA9" />
+    <color namespace="minecraft:purpur_slab" hex="#A97DA9" />
+    <color namespace="minecraft:purpur_stairs" hex="#A97DA9" />
+    <color namespace="minecraft:quartz_block" hex="#EBE5DE" />
+    <color namespace="minecraft:quartz_slab" hex="#EBE5DE" />
+    <color namespace="minecraft:quartz_stairs" hex="#EBE5DE" />
+    <color namespace="minecraft:rail" hex="#7D6F58" />
+    <color namespace="minecraft:redstone_block" hex="#AF1805" />
+    <color namespace="minecraft:redstone_ore" hex="#856B6B" />
+    <color namespace="minecraft:red_concrete" hex="#8E2020" />
+    <color namespace="minecraft:red_concrete_powder" hex="#A83632" />
+    <color namespace="minecraft:red_glazed_terracotta" hex="#B53B35" />
+    <color namespace="minecraft:red_mushroom_block" hex="#C82E2D" />
+    <color namespace="minecraft:red_nether_bricks" hex="#450709" />
+    <color namespace="minecraft:red_nether_brick_slab" hex="#450709" />
+    <color namespace="minecraft:red_nether_brick_stairs" hex="#450709" />
+    <color namespace="minecraft:red_sand" hex="#BE6621" />
+    <color namespace="minecraft:red_sandstone" hex="#B5611F" />
+    <color namespace="minecraft:red_sandstone_slab" hex="#B5611F" />
+    <color namespace="minecraft:red_sandstone_stairs" hex="#B5611F" />
+    <color namespace="minecraft:red_shulker_box" hex="#8C1F1E" />
+    <color namespace="minecraft:red_stained_glass" hex="#983232" />
+    <color namespace="minecraft:red_terracotta" hex="#8F3D2E" />
+    <color namespace="minecraft:red_wool" hex="#A02722" />
+    <color namespace="minecraft:repeater" hex="#A09D9C" />
+    <color namespace="minecraft:repeating_command_block" hex="#7F6DA6" />
+    <color namespace="minecraft:tall_seagrass" hex="#389306" />" />
+    <color namespace="minecraft:sand" hex="#DBCFA3" />
+    <color namespace="minecraft:sandstone" hex="#DFD6AA" />
+    <color namespace="minecraft:sandstone_slab" hex="#DFD6AA" />
+    <color namespace="minecraft:sandstone_stairs" hex="#DFD6AA" />
+    <color namespace="minecraft:scaffolding" hex="#AE8650" />
+    <color namespace="minecraft:seagrass" hex="#389306" />
+    <color namespace="minecraft:sea_lantern" hex="#ACC8BE" />
+    <color namespace="minecraft:shulker_box" hex="#8B608B" />
+    <color namespace="minecraft:slime_block" hex="#6EBF5A" />
+    <color namespace="minecraft:smithing_table" hex="#393A46" />
+    <color namespace="minecraft:smoker" hex="#545250" />
+    <color namespace="minecraft:smooth_quartz_slab" hex="#EBE5DE" />
+    <color namespace="minecraft:smooth_quartz_stairs" hex="#EBE5DE" />
+    <color namespace="minecraft:smooth_red_sandstone" hex="#B5611F" />
+    <color namespace="minecraft:smooth_red_sandstone_slab" hex="#B5611F" />
+    <color namespace="minecraft:smooth_red_sandstone_stairs" hex="#B5611F" />
+    <color namespace="minecraft:smooth_sandstone" hex="#DFD6AA" />
+    <color namespace="minecraft:smooth_sandstone_slab" hex="#DFD6AA" />
+    <color namespace="minecraft:smooth_sandstone_stairs" hex="#DFD6AA" />
+    <color namespace="minecraft:smooth_stone" hex="#9E9E9E" />
+    <color namespace="minecraft:smooth_stone_slab" hex="#9E9E9E" />
+    <color namespace="minecraft:snow" hex="#F9FEFE" />
+    <color namespace="minecraft:soul_sand" hex="#513E32" />
+    <color namespace="minecraft:spawner" hex="#242E3E" />
+    <color namespace="minecraft:sponge" hex="#C3C04A" />
+    <color namespace="minecraft:spruce_planks" hex="#725430" />
+    <color namespace="minecraft:spruce_slab" hex="#725430" />
+    <color namespace="minecraft:spruce_stairs" hex="#725430" />
+    <color namespace="minecraft:spruce_trapdoor" hex="#674F2F" />
+    <color namespace="minecraft:sticky_piston" hex="#6E6860" />
+    <color namespace="minecraft:stone" hex="#7D7D7D" />
+    <color namespace="minecraft:stonecutter" hex="#7B766F" />
+    <color namespace="minecraft:stone_bricks" hex="#7A797A" />
+    <color namespace="minecraft:stone_brick_slab" hex="#7A797A" />
+    <color namespace="minecraft:stone_brick_stairs" hex="#7A797A" />
+    <color namespace="minecraft:stone_slab" hex="#7D7D7D" />
+    <color namespace="minecraft:stone_stairs" hex="#7D7D7D" />
+    <color namespace="minecraft:structure_block" hex="#584A5A" />
+    <color namespace="minecraft:terracotta" hex="#985E43" />
+    <color namespace="minecraft:tnt" hex="#8E3E35" />
+    <color namespace="minecraft:tube_coral_block" hex="#3157CE" />
+    <color namespace="minecraft:turtle_egg" hex="#E4E2BF" />
+    <color namespace="minecraft:wax_block" hex="#E7B83C" />
+    <color namespace="minecraft:wet_sponge" hex="#ABB546" />
+    <color namespace="minecraft:white_concrete" hex="#CFD5D6" />
+    <color namespace="minecraft:white_concrete_powder" hex="#E1E3E3" />
+    <color namespace="minecraft:white_glazed_terracotta" hex="#BCD4CA" />
+    <color namespace="minecraft:white_shulker_box" hex="#D7DCDD" />
+    <color namespace="minecraft:white_stained_glass" hex="#FEFEFE" />
+    <color namespace="minecraft:white_terracotta" hex="#D1B2A1" />
+    <color namespace="minecraft:white_wool" hex="#E9ECEC" />
+    <color namespace="minecraft:yellow_concrete" hex="#F0AF15" />
+    <color namespace="minecraft:yellow_concrete_powder" hex="#E8C736" />
+    <color namespace="minecraft:yellow_glazed_terracotta" hex="#EAC058" />
+    <color namespace="minecraft:yellow_shulker_box" hex="#F8BC1D" />
+    <color namespace="minecraft:yellow_stained_glass" hex="#E5E532" />
+    <color namespace="minecraft:yellow_terracotta" hex="#BA8523" />
+    <color namespace="minecraft:yellow_wool" hex="#F8C527" />
+    
+    <color namespace="minecraft:dandelion" hex="#FFEC4F" />
+    <color namespace="minecraft:poppy" hex="#ED302C" />
+    <color namespace="minecraft:blue_orchid" hex="#2FCEFD" />
+    <color namespace="minecraft:allium" hex="#E8CFFE" />
+    <color namespace="minecraft:azure_bluet" hex="#F7F7F7" />
+    <color namespace="minecraft:red_tulip" hex="#9B221A" />
+    <color namespace="minecraft:orange_tulip" hex="#BD6A22" />
+    <color namespace="minecraft:white_tulip" hex="#D6E8E8" />
+    <color namespace="minecraft:pink_tulip" hex="#EBC5FD" />
+    <color namespace="minecraft:oxeye_daisy" hex="#F7F7F7" />
+    <color namespace="minecraft:cornflower" hex="#728FF1" />
+    <color namespace="minecraft:lily_of_the_valley" hex="#FFFFFF" />
+    <color namespace="minecraft:wither_rose" hex="#2A1F19" />
+    <color namespace="minecraft:sunflower" hex="#F5BA27" />
+    <color namespace="minecraft:lilac" hex="#B66BB2" />
+    <color namespace="minecraft:rose_bush" hex="#ED302C" />
+    <color namespace="minecraft:peony" hex="#E4AFF4" />
+    <color namespace="minecraft:lily_pad" hex="#134B1C" />
+
+    <color namespace="minecraft:honey_block" hex="#F09A1E" />
+    <color namespace="minecraft:honeycomb_block" hex="#E3931D" />
+
+    <color namespace="minecraft:oak_fence" hex="#A2824E" />
+    <color namespace="minecraft:spruce_fence" hex="#725430" />
+    <color namespace="minecraft:birch_fence" hex="#C0AF79" />
+    <color namespace="minecraft:jungle_fence" hex="#A07350" />
+    <color namespace="minecraft:acacia_fence" hex="#A85A32" />
+    <color namespace="minecraft:dark_oak_fence" hex="#422B14" />
+    <color namespace="minecraft:nether_brick_fence" hex="#2C151A" />
+
+    <color namespace="minecraft:oak_fence_gate" hex="#A2824E" />
+    <color namespace="minecraft:spruce_fence_gate" hex="#725430" />
+    <color namespace="minecraft:birch_fence_gate" hex="#C0AF79" />
+    <color namespace="minecraft:jungle_fence_gate" hex="#A07350" />
+    <color namespace="minecraft:acacia_fence_gate" hex="#A85A32" />
+    <color namespace="minecraft:dark_oak_fence_gate" hex="#422B14" />
+  </block>
+  <block-property>
+    <property namespace="minecraft:acacia_log">
+      <color value="x" hex="#676056" />
+      <color value="y" hex="#965837" />
+      <color value="z" hex="#676056" />
+      <default hex="#676056" />
+    </property>
+    <property namespace="minecraft:birch_log">
+      <color value="x" hex="#D8D7D2" />
+      <color value="y" hex="#C1B387" />
+      <color value="z" hex="#D8D7D2" />
+      <default hex="#D8D7D2" />
+    </property>
+    <property namespace="minecraft:dark_oak_log">
+      <color value="x" hex="#3C2E1A" />
+      <color value="y" hex="#402A15" />
+      <color value="z" hex="#3C2E1A" />
+      <default hex="#3C2E1A" />
+    </property>
+    <property namespace="minecraft:hay_block">
+      <color value="x" hex="#A68826" />
+      <color value="y" hex="#A58B0C" />
+      <color value="z" hex="#A68826" />
+      <default hex="#A68826" />
+    </property>
+    <property namespace="minecraft:jungle_log">
+      <color value="x" hex="#554319" />
+      <color value="y" hex="#956D46" />
+      <color value="z" hex="#554319" />
+      <default hex="#554319" />
+    </property>
+    <property namespace="minecraft:oak_log">
+      <color value="x" hex="#6D5532" />
+      <color value="y" hex="#977949" />
+      <color value="z" hex="#6D5532" />
+      <default hex="#6D5532" />
+    </property>
+    <property namespace="minecraft:purpur_pillar">
+      <color value="x" hex="#AB81AB" />
+      <color value="y" hex="#AA80AA" />
+      <color value="z" hex="#AB81AB" />
+      <default hex="#AB81AB" />
+    </property>
+    <property namespace="minecraft:quartz_pillar">
+      <color value="x" hex="#EBE6E0" />
+      <color value="y" hex="#EBE5DE" />
+      <color value="z" hex="#EBE6E0" />
+      <default hex="#EBE6E0" />
+    </property>
+    <property namespace="minecraft:redstone_lamp">
+      <color value="false" hex="#5F361E" />
+      <color value="true" hex="#8E653C" />
+      <default hex="#5F361E" />
+    </property>
+    <property namespace="minecraft:spruce_log">
+      <color value="x" hex="#3A2510" />
+      <color value="y" hex="#6C502E" />
+      <color value="z" hex="#3A2510" />
+      <default hex="#3A2510" />
+    </property>
+    <property namespace="minecraft:stripped_acacia_log">
+      <color value="x" hex="#AE5C3B" />
+      <color value="y" hex="#A65B33" />
+      <color value="z" hex="#AE5C3B" />
+      <default hex="#AE5C3B" />
+    </property>
+    <property namespace="minecraft:stripped_birch_log">
+      <color value="x" hex="#C4B076" />
+      <color value="y" hex="#BFAB74" />
+      <color value="z" hex="#C4B076" />
+      <default hex="#C4B076" />
+    </property>
+    <property namespace="minecraft:stripped_dark_oak_log">
+      <color value="x" hex="#604C31" />
+      <color value="y" hex="#412C16" />
+      <color value="z" hex="#604C31" />
+      <default hex="#604C31" />
+    </property>
+    <property namespace="minecraft:stripped_jungle_log">
+      <color value="x" hex="#AB8454" />
+      <color value="y" hex="#A57A51" />
+      <color value="z" hex="#AB8454" />
+      <default hex="#AB8454" />
+    </property>
+    <property namespace="minecraft:stripped_oak_log">
+      <color value="x" hex="#B19056" />
+      <color value="y" hex="#A0814D" />
+      <color value="z" hex="#B19056" />
+      <default hex="#B19056" />
+    </property>
+    <property namespace="minecraft:stripped_spruce_log">
+      <color value="x" hex="#735934" />
+      <color value="y" hex="#69502E" />
+      <color value="z" hex="#735934" />
+      <default hex="#735934" />
+    </property>
+    <property namespace="minecraft:farmland">
+      <color value="7" hex="#211307" />
+      <default hex="#8F6646" />
+    </property>
+  </block-property>
+  <biome>
+    <list>
+      <color namespace="minecraft:grass_block" hex="#546C33" />
+      <color namespace="minecraft:water" hex="#233D70" />
+      
+      <color namespace="minecraft:grass" hex="#446D33" />
+      <color namespace="minecraft:tall_grass" hex="#446D33" />
+      <color namespace="minecraft:fern" hex="#446D33" />
+      <color namespace="minecraft:large_fern" hex="#446D33" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#244515" />
+      <color namespace="minecraft:birch_leaves" hex="#2E381D" />
+      <color namespace="minecraft:spruce_leaves" hex="#283F28" />
+      <color namespace="minecraft:jungle_leaves" hex="#668011" />
+      <color namespace="minecraft:acacia_leaves" hex="#49691D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#344814" />
+    </list>
+    
+    <place namespace="minecraft:beach">
+      <color namespace="minecraft:grass_block" hex="#526B32" />
+      
+      <color namespace="minecraft:grass" hex="#455A2B" />
+      <color namespace="minecraft:tall_grass" hex="#455A2B" />
+      <color namespace="minecraft:fern" hex="#455A2B" />
+      <color namespace="minecraft:large_fern" hex="#455A2B" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#224414" />
+      <color namespace="minecraft:jungle_leaves" hex="#647F10" />
+      <color namespace="minecraft:acacia_leaves" hex="#47681C" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#324713" />
+
+    </place>
+    <place namespace="minecraft:snowy_beach">
+      <color namespace="minecraft:grass_block" hex="#4A6653" />
+      
+      <color namespace="minecraft:grass" hex="#3D554C" />
+      <color namespace="minecraft:tall_grass" hex="#3D554C" />
+      <color namespace="minecraft:fern" hex="#3D554C" />
+      <color namespace="minecraft:large_fern" hex="#3D554C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1A3F35" />
+      <color namespace="minecraft:jungle_leaves" hex="#5C7A31" />
+      <color namespace="minecraft:acacia_leaves" hex="#3F633D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2A4234" />
+
+    </place> <!-- Biome type - beach-->
+    <place namespace="minecraft:desert">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place>
+    <place namespace="minecraft:desert_hills">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place>
+    <place namespace="minecraft:desert_lakes">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place> <!-- Biome type - desert-->
+    <place namespace="minecraft:gravelly_mountains">
+      <color namespace="minecraft:grass_block" hex="#4E674E" />
+      
+      <color namespace="minecraft:grass" hex="#415647" />
+      <color namespace="minecraft:tall_grass" hex="#415647" />
+      <color namespace="minecraft:fern" hex="#415647" />
+      <color namespace="minecraft:large_fern" hex="#415647" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1E4030" />
+      <color namespace="minecraft:jungle_leaves" hex="#607B2C" />
+      <color namespace="minecraft:acacia_leaves" hex="#436438" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2E432F" />
+
+    </place>
+    <place namespace="minecraft:modified_gravelly_mountains">
+      <color namespace="minecraft:grass_block" hex="#4E674E" />
+      
+      <color namespace="minecraft:grass" hex="#415647" />
+      <color namespace="minecraft:tall_grass" hex="#415647" />
+      <color namespace="minecraft:fern" hex="#415647" />
+      <color namespace="minecraft:large_fern" hex="#415647" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1E4030" />
+      <color namespace="minecraft:jungle_leaves" hex="#607B2C" />
+      <color namespace="minecraft:acacia_leaves" hex="#436438" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2E432F" />
+
+    </place>
+    <place namespace="minecraft:mountain_edge" >
+      <color namespace="minecraft:grass_block" hex="#4E674E" />
+      
+      <color namespace="minecraft:grass" hex="#415647" />
+      <color namespace="minecraft:tall_grass" hex="#415647" />
+      <color namespace="minecraft:fern" hex="#415647" />
+      <color namespace="minecraft:large_fern" hex="#415647" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1E4030" />
+      <color namespace="minecraft:jungle_leaves" hex="#607B2C" />
+      <color namespace="minecraft:acacia_leaves" hex="#436438" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2E432F" />
+
+    </place>
+    <place namespace="minecraft:mountains">
+      <color namespace="minecraft:grass_block" hex="#4E674E" />
+      
+      <color namespace="minecraft:grass" hex="#415647" />
+      <color namespace="minecraft:tall_grass" hex="#415647" />
+      <color namespace="minecraft:fern" hex="#415647" />
+      <color namespace="minecraft:large_fern" hex="#415647" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1E4030" />
+      <color namespace="minecraft:jungle_leaves" hex="#607B2C" />
+      <color namespace="minecraft:acacia_leaves" hex="#436438" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2E432F" />
+
+    </place>
+    <place namespace="minecraft:wooded_mountains">
+      <color namespace="minecraft:grass_block" hex="#4E674E" />
+      
+      <color namespace="minecraft:grass" hex="#415647" />
+      <color namespace="minecraft:tall_grass" hex="#415647" />
+      <color namespace="minecraft:fern" hex="#415647" />
+      <color namespace="minecraft:large_fern" hex="#415647" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1E4030" />
+      <color namespace="minecraft:jungle_leaves" hex="#607B2C" />
+      <color namespace="minecraft:acacia_leaves" hex="#436438" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2E432F" />
+
+    </place> <!-- Biome type - mountains-->
+    <place namespace="minecraft:forest">
+      <color namespace="minecraft:grass_block" hex="#446D33" />
+      
+      <color namespace="minecraft:grass" hex="#375C2C" />
+      <color namespace="minecraft:tall_grass" hex="#375C2C" />
+      <color namespace="minecraft:fern" hex="#375C2C" />
+      <color namespace="minecraft:large_fern" hex="#375C2C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#144615" />
+      <color namespace="minecraft:jungle_leaves" hex="#568111" />
+      <color namespace="minecraft:acacia_leaves" hex="#396A1D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#244914" />
+
+    </place>
+    <place namespace="minecraft:flower_forest">
+      <color namespace="minecraft:grass_block" hex="#446D33" />
+      
+      <color namespace="minecraft:grass" hex="#375C2C" />
+      <color namespace="minecraft:tall_grass" hex="#375C2C" />
+      <color namespace="minecraft:fern" hex="#375C2C" />
+      <color namespace="minecraft:large_fern" hex="#375C2C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#144615" />
+      <color namespace="minecraft:jungle_leaves" hex="#568111" />
+      <color namespace="minecraft:acacia_leaves" hex="#396A1D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#244914" />
+
+    </place>
+    <place namespace="minecraft:wooded_hills">
+      <color namespace="minecraft:grass_block" hex="#446D33" />
+      
+      <color namespace="minecraft:grass" hex="#375C2C" />
+      <color namespace="minecraft:tall_grass" hex="#375C2C" />
+      <color namespace="minecraft:fern" hex="#375C2C" />
+      <color namespace="minecraft:large_fern" hex="#375C2C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#144615" />
+      <color namespace="minecraft:jungle_leaves" hex="#568111" />
+      <color namespace="minecraft:acacia_leaves" hex="#396A1D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#244914" />
+
+    </place>
+    <place namespace="minecraft:birch_forest">
+      <color namespace="minecraft:grass_block" hex="#4D6A3A" />
+      
+      <color namespace="minecraft:grass" hex="#405933" />
+      <color namespace="minecraft:tall_grass" hex="#405933" />
+      <color namespace="minecraft:fern" hex="#405933" />
+      <color namespace="minecraft:large_fern" hex="#405933" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1D431C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5F7E18" />
+      <color namespace="minecraft:acacia_leaves" hex="#426724" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2D461B" />
+
+    </place>
+    <place namespace="minecraft:birch_forest_hills">
+      <color namespace="minecraft:grass_block" hex="#4D6A3A" />
+      
+      <color namespace="minecraft:grass" hex="#405933" />
+      <color namespace="minecraft:tall_grass" hex="#405933" />
+      <color namespace="minecraft:fern" hex="#405933" />
+      <color namespace="minecraft:large_fern" hex="#405933" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1D431C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5F7E18" />
+      <color namespace="minecraft:acacia_leaves" hex="#426724" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2D461B" />
+
+    </place>
+    <place namespace="minecraft:tall_birch_forest">
+      <color namespace="minecraft:grass_block" hex="#4D6A3A" />
+      
+      <color namespace="minecraft:grass" hex="#405933" />
+      <color namespace="minecraft:tall_grass" hex="#405933" />
+      <color namespace="minecraft:fern" hex="#405933" />
+      <color namespace="minecraft:large_fern" hex="#405933" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1D431C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5F7E18" />
+      <color namespace="minecraft:acacia_leaves" hex="#426724" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2D461B" />
+
+    </place>
+    <place namespace="minecraft:tall_birch_hills">
+      <color namespace="minecraft:grass_block" hex="#4D6A3A" />
+      
+      <color namespace="minecraft:grass" hex="#405933" />
+      <color namespace="minecraft:tall_grass" hex="#405933" />
+      <color namespace="minecraft:fern" hex="#405933" />
+      <color namespace="minecraft:large_fern" hex="#405933" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1D431C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5F7E18" />
+      <color namespace="minecraft:acacia_leaves" hex="#426724" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2D461B" />
+
+    </place>
+    <place namespace="minecraft:dark_forest">
+      <color namespace="minecraft:grass_block" hex="#2C441C" />
+      
+      <color namespace="minecraft:grass" hex="#1F3315" />
+      <color namespace="minecraft:tall_grass" hex="#1F3315" />
+      <color namespace="minecraft:fern" hex="#1F3315" />
+      <color namespace="minecraft:large_fern" hex="#1F3315" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#001D00" />
+      <color namespace="minecraft:jungle_leaves" hex="#3E5800" />
+      <color namespace="minecraft:acacia_leaves" hex="#214106" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#0C2000" />
+
+    </place>
+    <place namespace="minecraft:dark_forest_hills">
+      <color namespace="minecraft:grass_block" hex="#2C441C" />
+      
+      <color namespace="minecraft:grass" hex="#1F3315" />
+      <color namespace="minecraft:tall_grass" hex="#1F3315" />
+      <color namespace="minecraft:fern" hex="#1F3315" />
+      <color namespace="minecraft:large_fern" hex="#1F3315" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#001D00" />
+      <color namespace="minecraft:jungle_leaves" hex="#3E5800" />
+      <color namespace="minecraft:acacia_leaves" hex="#214106" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#0C2000" />
+
+    </place> <!-- Biome type - forest-->
+    <place namespace="minecraft:ice_spikes">
+      <color namespace="minecraft:grass_block" hex="#486656" />
+      
+      <color namespace="minecraft:grass" hex="#3B554F" />
+      <color namespace="minecraft:tall_grass" hex="#3B554F" />
+      <color namespace="minecraft:fern" hex="#3B554F" />
+      <color namespace="minecraft:large_fern" hex="#3B554F" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#183F38" />
+      <color namespace="minecraft:jungle_leaves" hex="#5A7A34" />
+      <color namespace="minecraft:acacia_leaves" hex="#3D6340" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#284237" />
+
+    </place>
+    <place namespace="minecraft:snowy_mountains">
+      <color namespace="minecraft:grass_block" hex="#486656" />
+      
+      <color namespace="minecraft:grass" hex="#3B554F" />
+      <color namespace="minecraft:tall_grass" hex="#3B554F" />
+      <color namespace="minecraft:fern" hex="#3B554F" />
+      <color namespace="minecraft:large_fern" hex="#3B554F" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#183F38" />
+      <color namespace="minecraft:jungle_leaves" hex="#5A7A34" />
+      <color namespace="minecraft:acacia_leaves" hex="#3D6340" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#284237" />
+
+    </place>
+    <place namespace="minecraft:snowy_tundra">
+      <color namespace="minecraft:grass_block" hex="#486656" />
+      
+      <color namespace="minecraft:grass" hex="#3B554F" />
+      <color namespace="minecraft:tall_grass" hex="#3B554F" />
+      <color namespace="minecraft:fern" hex="#3B554F" />
+      <color namespace="minecraft:large_fern" hex="#3B554F" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#183F38" />
+      <color namespace="minecraft:jungle_leaves" hex="#5A7A34" />
+      <color namespace="minecraft:acacia_leaves" hex="#3D6340" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#284237" />
+
+    </place> <!-- Biome type - icy-->
+    <place namespace="minecraft:bamboo_jungle">
+      <color namespace="minecraft:grass_block" hex="#327222" />
+      
+      <color namespace="minecraft:grass" hex="#25611B" />
+      <color namespace="minecraft:tall_grass" hex="#25611B" />
+      <color namespace="minecraft:fern" hex="#25611B" />
+      <color namespace="minecraft:large_fern" hex="#25611B" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#024B04" />
+      <color namespace="minecraft:jungle_leaves" hex="#448600" />
+      <color namespace="minecraft:acacia_leaves" hex="#276F0C" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#124E03" />
+
+    </place>
+    <place namespace="minecraft:bamboo_jungle_hills" >
+      <color namespace="minecraft:grass_block" hex="#327222" />
+      
+      <color namespace="minecraft:grass" hex="#25611B" />
+      <color namespace="minecraft:tall_grass" hex="#25611B" />
+      <color namespace="minecraft:fern" hex="#25611B" />
+      <color namespace="minecraft:large_fern" hex="#25611B" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#024B04" />
+      <color namespace="minecraft:jungle_leaves" hex="#448600" />
+      <color namespace="minecraft:acacia_leaves" hex="#276F0C" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#124E03" />
+
+    </place>
+    <place namespace="minecraft:jungle">
+      <color namespace="minecraft:grass_block" hex="#327222" />
+      
+      <color namespace="minecraft:grass" hex="#25611B" />
+      <color namespace="minecraft:tall_grass" hex="#25611B" />
+      <color namespace="minecraft:fern" hex="#25611B" />
+      <color namespace="minecraft:large_fern" hex="#25611B" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#024B04" />
+      <color namespace="minecraft:jungle_leaves" hex="#448600" />
+      <color namespace="minecraft:acacia_leaves" hex="#276F0C" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#124E03" />
+
+    </place>
+    <place namespace="minecraft:jungle_edge">
+      <color namespace="minecraft:grass_block" hex="#387123" />
+      
+      <color namespace="minecraft:grass" hex="#2B601C" />
+      <color namespace="minecraft:tall_grass" hex="#2B601C" />
+      <color namespace="minecraft:fern" hex="#2B601C" />
+      <color namespace="minecraft:large_fern" hex="#2B601C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#084A05" />
+      <color namespace="minecraft:jungle_leaves" hex="#4A8501" />
+      <color namespace="minecraft:acacia_leaves" hex="#2D6E0D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#184D04" />
+
+    </place>
+    <place namespace="minecraft:jungle_hills">
+      <color namespace="minecraft:grass_block" hex="#327222" />
+      
+      <color namespace="minecraft:grass" hex="#25611B" />
+      <color namespace="minecraft:tall_grass" hex="#25611B" />
+      <color namespace="minecraft:fern" hex="#25611B" />
+      <color namespace="minecraft:large_fern" hex="#25611B" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#024B04" />
+      <color namespace="minecraft:jungle_leaves" hex="#448600" />
+      <color namespace="minecraft:acacia_leaves" hex="#276F0C" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#124E03" />
+
+    </place>
+    <place namespace="minecraft:modified_jungle">
+      <color namespace="minecraft:grass_block" hex="#327222" />
+      
+      <color namespace="minecraft:grass" hex="#25611B" />
+      <color namespace="minecraft:tall_grass" hex="#25611B" />
+      <color namespace="minecraft:fern" hex="#25611B" />
+      <color namespace="minecraft:large_fern" hex="#25611B" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#024B04" />
+      <color namespace="minecraft:jungle_leaves" hex="#448600" />
+      <color namespace="minecraft:acacia_leaves" hex="#276F0C" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#124E03" />
+
+    </place>
+    <place namespace="minecraft:modified_jungle_edge">
+      <color namespace="minecraft:grass_block" hex="#387123" />
+      
+      <color namespace="minecraft:grass" hex="#2B601C" />
+      <color namespace="minecraft:tall_grass" hex="#2B601C" />
+      <color namespace="minecraft:fern" hex="#2B601C" />
+      <color namespace="minecraft:large_fern" hex="#2B601C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#084A05" />
+      <color namespace="minecraft:jungle_leaves" hex="#4A8501" />
+      <color namespace="minecraft:acacia_leaves" hex="#2D6E0D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#184D04" />
+
+    </place> <!--Biome type - jungle-->
+    <place namespace="minecraft:badlands">
+      <color namespace="minecraft:grass_block" hex="#51492C" />
+      
+      <color namespace="minecraft:grass" hex="#443825" />
+      <color namespace="minecraft:tall_grass" hex="#443825" />
+      <color namespace="minecraft:fern" hex="#443825" />
+      <color namespace="minecraft:large_fern" hex="#443825" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#21220E" />
+      <color namespace="minecraft:jungle_leaves" hex="#635D0A" />
+      <color namespace="minecraft:acacia_leaves" hex="#464616" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#31250D" />
+
+    </place>
+    <place namespace="minecraft:badlands_plateau">
+      <color namespace="minecraft:grass_block" hex="#51492C" />
+      
+      <color namespace="minecraft:grass" hex="#443825" />
+      <color namespace="minecraft:tall_grass" hex="#443825" />
+      <color namespace="minecraft:fern" hex="#443825" />
+      <color namespace="minecraft:large_fern" hex="#443825" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#21220E" />
+      <color namespace="minecraft:jungle_leaves" hex="#635D0A" />
+      <color namespace="minecraft:acacia_leaves" hex="#464616" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#31250D" />
+
+    </place>
+    <place namespace="minecraft:eroded_badlands">
+      <color namespace="minecraft:grass_block" hex="#51492C" />
+      
+      <color namespace="minecraft:grass" hex="#443825" />
+      <color namespace="minecraft:tall_grass" hex="#443825" />
+      <color namespace="minecraft:fern" hex="#443825" />
+      <color namespace="minecraft:large_fern" hex="#443825" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#21220E" />
+      <color namespace="minecraft:jungle_leaves" hex="#635D0A" />
+      <color namespace="minecraft:acacia_leaves" hex="#464616" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#31250D" />
+
+    </place>
+    <place namespace="minecraft:modified_badlands_plateau" >
+      <color namespace="minecraft:grass_block" hex="#51492C" />
+      
+      <color namespace="minecraft:grass" hex="#443825" />
+      <color namespace="minecraft:tall_grass" hex="#443825" />
+      <color namespace="minecraft:fern" hex="#443825" />
+      <color namespace="minecraft:large_fern" hex="#443825" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#21220E" />
+      <color namespace="minecraft:jungle_leaves" hex="#635D0A" />
+      <color namespace="minecraft:acacia_leaves" hex="#464616" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#31250D" />
+
+    </place>
+    <place namespace="minecraft:modified_wooded_badlands_plateau">
+      <color namespace="minecraft:grass_block" hex="#51492C" />
+      
+      <color namespace="minecraft:grass" hex="#443825" />
+      <color namespace="minecraft:tall_grass" hex="#443825" />
+      <color namespace="minecraft:fern" hex="#443825" />
+      <color namespace="minecraft:large_fern" hex="#443825" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#21220E" />
+      <color namespace="minecraft:jungle_leaves" hex="#635D0A" />
+      <color namespace="minecraft:acacia_leaves" hex="#464616" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#31250D" />
+
+    </place>
+    <place namespace="minecraft:wooded_badlands_plateau" >
+      <color namespace="minecraft:grass_block" hex="#51492C" />
+      
+      <color namespace="minecraft:grass" hex="#443825" />
+      <color namespace="minecraft:tall_grass" hex="#443825" />
+      <color namespace="minecraft:fern" hex="#443825" />
+      <color namespace="minecraft:large_fern" hex="#443825" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#21220E" />
+      <color namespace="minecraft:jungle_leaves" hex="#635D0A" />
+      <color namespace="minecraft:acacia_leaves" hex="#464616" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#31250D" />
+    </place> <!--Biome type - mesa-->
+    <place namespace="minecraft:mushroom_fields">
+      <color namespace="minecraft:grass_block" hex="#307223" />
+      
+      <color namespace="minecraft:grass" hex="#23611C" />
+      <color namespace="minecraft:tall_grass" hex="#23611C" />
+      <color namespace="minecraft:fern" hex="#23611C" />
+      <color namespace="minecraft:large_fern" hex="#23611C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#004B05" />
+      <color namespace="minecraft:jungle_leaves" hex="#428601" />
+      <color namespace="minecraft:acacia_leaves" hex="#256F0D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#104E04" />
+
+    </place>
+    <place namespace="minecraft:mushroom_field_shore">
+      <color namespace="minecraft:grass_block" hex="#307223" />
+      
+      <color namespace="minecraft:grass" hex="#23611C" />
+      <color namespace="minecraft:tall_grass" hex="#23611C" />
+      <color namespace="minecraft:fern" hex="#23611C" />
+      <color namespace="minecraft:large_fern" hex="#23611C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#004B05" />
+      <color namespace="minecraft:jungle_leaves" hex="#428601" />
+      <color namespace="minecraft:acacia_leaves" hex="#256F0D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#104E04" />
+
+    </place> <!--Biome type - mushroom-->
+    <place namespace="minecraft:nether">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place> <!--Biome type - nether-->
+    <place namespace="minecraft:stone_shore">
+      <color namespace="minecraft:grass_block" hex="#4E674E" />
+      
+      <color namespace="minecraft:grass" hex="#415647" />
+      <color namespace="minecraft:tall_grass" hex="#415647" />
+      <color namespace="minecraft:fern" hex="#415647" />
+      <color namespace="minecraft:large_fern" hex="#415647" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1E4030" />
+      <color namespace="minecraft:jungle_leaves" hex="#607B2C" />
+      <color namespace="minecraft:acacia_leaves" hex="#436438" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2E432F" />
+
+    </place>
+    <place namespace="minecraft:the_void">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place> <!--Biome type - none-->
+    <place namespace="minecraft:cold_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      <color namespace="minecraft:water" hex="#26326E" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:deep_cold_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      <color namespace="minecraft:water" hex="#26326E" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:deep_frozen_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:deep_lukewarm_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:deep_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      <color namespace="minecraft:water" hex="#274176" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:deep_warm_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:frozen_ocean">
+      <color namespace="minecraft:grass_block" hex="#4B6751" />
+      
+      <color namespace="minecraft:grass" hex="#3E564A" />
+      <color namespace="minecraft:tall_grass" hex="#3E564A" />
+      <color namespace="minecraft:fern" hex="#3E564A" />
+      <color namespace="minecraft:large_fern" hex="#3E564A" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1B4033" />
+      <color namespace="minecraft:jungle_leaves" hex="#5D7B2F" />
+      <color namespace="minecraft:acacia_leaves" hex="#40643B" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2B4332" />
+
+    </place>
+    <place namespace="minecraft:lukewarm_ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      <color namespace="minecraft:water" hex="#295A7A" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:ocean">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      <color namespace="minecraft:water" hex="#274176" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:warm_ocean" >
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      <color namespace="minecraft:water" hex="#296F79" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place> <!-- Biome type - ocean-->
+    <place namespace="minecraft:plains" >
+      <color namespace="minecraft:grass_block" hex="#546C33" />
+      
+      <color namespace="minecraft:grass" hex="#475B2C" />
+      <color namespace="minecraft:tall_grass" hex="#475B2C" />
+      <color namespace="minecraft:fern" hex="#475B2C" />
+      <color namespace="minecraft:large_fern" hex="#475B2C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#244515" />
+      <color namespace="minecraft:jungle_leaves" hex="#668011" />
+      <color namespace="minecraft:acacia_leaves" hex="#49691D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#344814" />
+
+    </place>
+    <place namespace="minecraft:sunflower_plains">
+      <color namespace="minecraft:grass_block" hex="#546C33" />
+      
+      <color namespace="minecraft:grass" hex="#475B2C" />
+      <color namespace="minecraft:tall_grass" hex="#475B2C" />
+      <color namespace="minecraft:fern" hex="#475B2C" />
+      <color namespace="minecraft:large_fern" hex="#475B2C" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#244515" />
+      <color namespace="minecraft:jungle_leaves" hex="#668011" />
+      <color namespace="minecraft:acacia_leaves" hex="#49691D" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#344814" />
+
+    </place> <!-- Biome type - plains-->
+    <place namespace="minecraft:frozen_river">
+      <color namespace="minecraft:grass_block" hex="#4B6751" />
+      
+      <color namespace="minecraft:grass" hex="#3E564A" />
+      <color namespace="minecraft:tall_grass" hex="#3E564A" />
+      <color namespace="minecraft:fern" hex="#3E564A" />
+      <color namespace="minecraft:large_fern" hex="#3E564A" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1B4033" />
+      <color namespace="minecraft:jungle_leaves" hex="#5D7B2F" />
+      <color namespace="minecraft:acacia_leaves" hex="#40643B" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2B4332" />
+
+    </place>
+    <place namespace="minecraft:river">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place> <!-- Biome type - river-->
+    <place namespace="minecraft:savanna">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place>
+    <place namespace="minecraft:savanna_plateau">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place>
+    <place namespace="minecraft:shattered_savanna">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place>
+    <place namespace="minecraft:shattered_savanna_plateau">
+      <color namespace="minecraft:grass_block" hex="#6C6830" />
+      
+      <color namespace="minecraft:grass" hex="#5F5729" />
+      <color namespace="minecraft:tall_grass" hex="#5F5729" />
+      <color namespace="minecraft:fern" hex="#5F5729" />
+      <color namespace="minecraft:large_fern" hex="#5F5729" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#3C4112" />
+      <color namespace="minecraft:jungle_leaves" hex="#7E7C0E" />
+      <color namespace="minecraft:acacia_leaves" hex="#61651A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#4C4411" />
+
+    </place> <!-- Biome type - savanna-->
+    <place namespace="minecraft:swamp">
+      <color namespace="minecraft:grass_block" hex="#334121" />
+
+      <color namespace="minecraft:water" hex="#475646" />
+      <color namespace="minecraft:grass" hex="#26301A" />
+      <color namespace="minecraft:tall_grass" hex="#26301A" />
+      <color namespace="minecraft:fern" hex="#26301A" />
+      <color namespace="minecraft:large_fern" hex="#26301A" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#031A03" />
+      <color namespace="minecraft:jungle_leaves" hex="#455500" />
+      <color namespace="minecraft:acacia_leaves" hex="#283E0B" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#131D02" />
+
+    </place>
+    <place namespace="minecraft:swamp_hills">
+      <color namespace="minecraft:grass_block" hex="#334121" />
+      
+      <color namespace="minecraft:water" hex="#475646" />
+      <color namespace="minecraft:grass" hex="#26301A" />
+      <color namespace="minecraft:tall_grass" hex="#26301A" />
+      <color namespace="minecraft:fern" hex="#26301A" />
+      <color namespace="minecraft:large_fern" hex="#26301A" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#031A03" />
+      <color namespace="minecraft:jungle_leaves" hex="#455500" />
+      <color namespace="minecraft:acacia_leaves" hex="#283E0B" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#131D02" />
+
+    </place> <!-- Biome type - swamp-->
+    <place namespace="minecraft:giant_spruce_taiga">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place>
+    <place namespace="minecraft:giant_spruce_taiga_hills">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place>
+    <place namespace="minecraft:giant_tree_taiga">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place>
+    <place namespace="minecraft:giant_tree_taiga_hills">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place>
+    <place namespace="minecraft:snowy_taiga" >
+      <color namespace="minecraft:grass_block" hex="#486656" />
+      
+      <color namespace="minecraft:grass" hex="#3B554F" />
+      <color namespace="minecraft:tall_grass" hex="#3B554F" />
+      <color namespace="minecraft:fern" hex="#3B554F" />
+      <color namespace="minecraft:large_fern" hex="#3B554F" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#183F38" />
+      <color namespace="minecraft:jungle_leaves" hex="#5A7A34" />
+      <color namespace="minecraft:acacia_leaves" hex="#3D6340" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#284237" />
+
+    </place>
+    <place namespace="minecraft:snowy_taiga_hills">
+      <color namespace="minecraft:grass_block" hex="#486656" />
+      
+      <color namespace="minecraft:grass" hex="#3B554F" />
+      <color namespace="minecraft:tall_grass" hex="#3B554F" />
+      <color namespace="minecraft:fern" hex="#3B554F" />
+      <color namespace="minecraft:large_fern" hex="#3B554F" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#183F38" />
+      <color namespace="minecraft:jungle_leaves" hex="#5A7A34" />
+      <color namespace="minecraft:acacia_leaves" hex="#3D6340" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#284237" />
+
+    </place>
+    <place namespace="minecraft:snowy_taiga_mountains">
+      <color namespace="minecraft:grass_block" hex="#486656" />
+      
+      <color namespace="minecraft:grass" hex="#3B554F" />
+      <color namespace="minecraft:tall_grass" hex="#3B554F" />
+      <color namespace="minecraft:fern" hex="#3B554F" />
+      <color namespace="minecraft:large_fern" hex="#3B554F" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#183F38" />
+      <color namespace="minecraft:jungle_leaves" hex="#5A7A34" />
+      <color namespace="minecraft:acacia_leaves" hex="#3D6340" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#284237" />
+
+    </place>
+    <place namespace="minecraft:taiga">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place>
+    <place namespace="minecraft:taiga_hills">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place>
+    <place namespace="minecraft:taiga_mountains">
+      <color namespace="minecraft:grass_block" hex="#4C684A" />
+      
+      <color namespace="minecraft:grass" hex="#3F5743" />
+      <color namespace="minecraft:tall_grass" hex="#3F5743" />
+      <color namespace="minecraft:fern" hex="#3F5743" />
+      <color namespace="minecraft:large_fern" hex="#3F5743" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#1C412C" />
+      <color namespace="minecraft:jungle_leaves" hex="#5E7C28" />
+      <color namespace="minecraft:acacia_leaves" hex="#416534" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#2C442B" />
+
+    </place> <!-- Biome type - taiga-->
+    <place namespace="minecraft:end_barrens">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:end_highlands">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:end_midlands">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:small_end_islands">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place>
+    <place namespace="minecraft:the_end">
+      <color namespace="minecraft:grass_block" hex="#506940" />
+      
+      <color namespace="minecraft:grass" hex="#435839" />
+      <color namespace="minecraft:tall_grass" hex="#435839" />
+      <color namespace="minecraft:fern" hex="#435839" />
+      <color namespace="minecraft:large_fern" hex="#435839" />
+      
+      <color namespace="minecraft:oak_leaves" hex="#204222" />
+      <color namespace="minecraft:jungle_leaves" hex="#627D1E" />
+      <color namespace="minecraft:acacia_leaves" hex="#45662A" />
+      <color namespace="minecraft:dark_oak_leaves" hex="#304521" />
+
+    </place> <!-- Biome type - the end-->
+  </biome>
+</root>

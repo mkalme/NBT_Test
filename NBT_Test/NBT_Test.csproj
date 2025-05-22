@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6C13F0A-8E3C-4128-A6AD-4053F8D4E641}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NBT_Test</RootNamespace>
+    <AssemblyName>NBT_Test</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>false</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG</DefineConstants>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <Optimize>true</Optimize>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>false</Optimize>
+    <DebugType>none</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zlib, Version=1.9.1.5, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ionic.Zlib.1.9.1.5\lib\Ionic.Zlib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="zlib.net">
+      <HintPath>D:\Backup\Other Backups\Inactive Backups\Misc Data\zlib.net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpecialForms\PropertyViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialForms\PropertyViewer.Designer.cs">
+      <DependentUpon>PropertyViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialForms\BiomeViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialForms\BiomeViewer.Designer.cs">
+      <DependentUpon>BiomeViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialForms\BlockInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialForms\BlockInfo.Designer.cs">
+      <DependentUpon>BlockInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialForms\NBTViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialForms\NBTViewer.Designer.cs">
+      <DependentUpon>NBTViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialForms\PerlinNoise2D.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialForms\PerlinNoise2D.Designer.cs">
+      <DependentUpon>PerlinNoise2D.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpecialForms\RegionMap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SpecialForms\RegionMap.Designer.cs">
+      <DependentUpon>RegionMap.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="SpecialForms\PropertyViewer.resx">
+      <DependentUpon>PropertyViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialForms\BiomeViewer.resx">
+      <DependentUpon>BiomeViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialForms\BlockInfo.resx">
+      <DependentUpon>BlockInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialForms\NBTViewer.resx">
+      <DependentUpon>NBTViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialForms\PerlinNoise2D.resx">
+      <DependentUpon>PerlinNoise2D.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SpecialForms\RegionMap.resx">
+      <DependentUpon>RegionMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CustomWorldGenerator\CustomWorldGenerator.csproj">
+      <Project>{59393760-f15e-44ef-8e04-c205e8b593ae}</Project>
+      <Name>CustomWorldGenerator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NBTEditorV2\NBTEditorV2.csproj">
+      <Project>{4219e48b-23f2-40c1-8bed-4dada4166d12}</Project>
+      <Name>NBTEditorV2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegionMapping\RegionMapping.csproj">
+      <Project>{d52221f0-f1e1-4d9d-9adf-518321c52d30}</Project>
+      <Name>RegionMapping</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Schematics\Schematics.csproj">
+      <Project>{ec2be23f-0c4b-427d-bd55-f8744ec04478}</Project>
+      <Name>Schematics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorldEditor\WorldEditor.csproj">
+      <Project>{b70ebb8c-4dc4-475c-afa2-8fcd8327c0d5}</Project>
+      <Name>WorldEditor</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<block>
+  <id short="0" namespace="minecraft:air" />
+  
+  <id short="1:0" namespace="minecraft:stone" />
+  <id short="1:1" namespace="minecraft:granite" />
+  <id short="1:2" namespace="minecraft:polished_granite" />
+  <id short="1:3" namespace="minecraft:diorite" />
+  <id short="1:4" namespace="minecraft:polished_diorite" />
+  <id short="1:5" namespace="minecraft:andesite" />
+  <id short="1:6" namespace="minecraft:polished_andesite" />
+  
+  <id short="2" namespace="minecraft:grass" />
+  
+  <id short="3:0" namespace="minecraft:dirt" />
+  <id short="3:1" namespace="minecraft:coarse_dirt" />
+  <id short="3:2" namespace="minecraft:podzol" />
+  
+  <id short="4" namespace="minecraft:cobblestone" />
+  
+  <id short="5:0" namespace="minecraft:oak_planks" />
+  <id short="5:1" namespace="minecraft:spruce_planks" />
+  <id short="5:2" namespace="minecraft:birch_planks" />
+  <id short="5:3" namespace="minecraft:jungle_planks" />
+  <id short="5:4" namespace="minecraft:acacia_planks" />
+  <id short="5:5" namespace="minecraft:dark_oak_planks" />
+  
+  <id short="6:0" namespace="minecraft:oak_sapling" />
+  <id short="6:1" namespace="minecraft:spruce_sapling" />
+  <id short="6:2" namespace="minecraft:birch_sapling" />
+  <id short="6:3" namespace="minecraft:jungle_sapling" />
+  <id short="6:4" namespace="minecraft:acacia_sapling" />
+  <id short="6:5" namespace="minecraft:dark_oak_sapling" />
+  
+  <id short="7" namespace="minecraft:bedrock" />
+  <id short="8" namespace="minecraft:flowing_water" />
+  <id short="9" namespace="minecraft:water" />
+  <id short="10" namespace="minecraft:flowing_lava" />
+  <id short="11" namespace="minecraft:lava" />
+  
+  <id short="12:0" namespace="minecraft:sand" />
+  <id short="12:1" namespace="minecraft:red_sand" />
+  
+  <id short="13" namespace="minecraft:gravel" />
+  <id short="14" namespace="minecraft:gold_ore" />
+  <id short="15" namespace="minecraft:iron_ore" />
+  <id short="16" namespace="minecraft:coal_ore" />
+  
+  <id short="17:0" namespace="minecraft:oak_log" />
+  <id short="17:1" namespace="minecraft:spruce_log" />
+  <id short="17:2" namespace="minecraft:birch_log" />
+  <id short="17:3" namespace="minecraft:jungle_log" />
+  
+  <id short="18:0" namespace="minecraft:oak_leaves" />
+  <id short="18:1" namespace="minecraft:spruce_leaves" />
+  <id short="18:2" namespace="minecraft:birch_leaves" />
+  <id short="18:3" namespace="minecraft:jungle_leaves" />
+  
+  <id short="19:0" namespace="minecraft:sponge" />
+  <id short="19:1" namespace="minecraft:wet_sponge" />
+  
+  <id short="20" namespace="minecraft:glass" />
+  <id short="21" namespace="minecraft:lapis_ore" />
+  <id short="22" namespace="minecraft:lapis_block" />
+  <id short="23" namespace="minecraft:dispenser" />
+  
+  <id short="24:0" namespace="minecraft:sandstone" />
+  <id short="24:1" namespace="minecraft:chiseled_sandstone" />
+  <id short="24:2" namespace="minecraft:cut_sandstone" />
+  
+  <id short="25" namespace="minecraft:note_block" />
+  <id short="26" namespace="minecraft:red_bed" />
+  <id short="27" namespace="minecraft:powered_rail" />
+  <id short="28" namespace="minecraft:detector_rail" />
+  <id short="29" namespace="minecraft:sticky_piston" />
+  <id short="30" namespace="minecraft:cobweb" />
+  
+  <id short="31:1" namespace="minecraft:tall_grass" />
+  <id short="31:2" namespace="minecraft:fern" />
+  
+  <id short="32" namespace="minecraft:dead_bush" />
+  <id short="33" namespace="minecraft:piston" />
+  <id short="34" namespace="minecraft:piston_head" />
+  
+  <id short="35:0" namespace="minecraft:white_wool" />
+  <id short="35:1" namespace="minecraft:orange_wool" />
+  <id short="35:2" namespace="minecraft:magenta_wool" />
+  <id short="35:3" namespace="minecraft:light_blue_wool" />
+  <id short="35:4" namespace="minecraft:yellow_wool" />
+  <id short="35:5" namespace="minecraft:lime_wool" />
+  <id short="35:6" namespace="minecraft:pink_wool" />
+  <id short="35:7" namespace="minecraft:gray_wool" />
+  <id short="35:8" namespace="minecraft:light_gray_wool" />
+  <id short="35:9" namespace="minecraft:cyan_wool" />
+  <id short="35:10" namespace="minecraft:purple_wool" />
+  <id short="35:11" namespace="minecraft:blue_wool" />
+  <id short="35:12" namespace="minecraft:brown_wool" />
+  <id short="35:13" namespace="minecraft:green_wool" />
+  <id short="35:14" namespace="minecraft:red_wool" />
+  <id short="35:15" namespace="minecraft:black_wool" />
+  
+  <id short="36" namespace="minecraft:moving_piston" />
+  <id short="37" namespace="minecraft:dandelion" />
+  
+  <id short="38:0" namespace="minecraft:poppy" />
+  <id short="38:1" namespace="minecraft:blue_orchid" />
+  <id short="38:2" namespace="minecraft:allium" />
+  <id short="38:3" namespace="minecraft:azure_bluet" />
+  <id short="38:4" namespace="minecraft:red_tulip" />
+  <id short="38:5" namespace="minecraft:orange_tulip" />
+  <id short="38:6" namespace="minecraft:white_tulip" />
+  <id short="38:7" namespace="minecraft:pink_tulip" />
+  <id short="38:8" namespace="minecraft:oxeye_daisy" />
+  
+  <id short="39" namespace="minecraft:brown_mushroom" />
+  <id short="40" namespace="minecraft:red_mushroom" />
+  <id short="41" namespace="minecraft:gold_block" />
+  <id short="42" namespace="minecraft:iron_block" />
+  
+  <id short="43:0" namespace="minecraft:smooth_stone_slab" property="type:double"/>
+  <id short="43:1" namespace="minecraft:sandstone_slab" property="type:double" />
+  <id short="43:2" namespace="minecraft:oak_slab" property="type:double" />
+  <id short="43:3" namespace="minecraft:cobblestone_slab" property="type:double"/>
+  <id short="43:4" namespace="minecraft:brick_slab" property="type:double"/>
+  <id short="43:5" namespace="minecraft:stone_brick_slab" property="type:double"/>
+  <id short="43:6" namespace="minecraft:quartz_slab" property="type:double"/>
+  <id short="43:7" namespace="minecraft:nether_brick_slab" property="type:double"/>
+  <id short="43:8" namespace="minecraft:smooth_stone"/>
+  <id short="43:9" namespace="minecraft:smooth_sandstone_slab" property="type:double"/>
+  
+  <id short="44:0" namespace="minecraft:smooth_stone_slab" />
+  <id short="44:1" namespace="minecraft:sandstone_slab" />
+  <id short="44:2" namespace="minecraft:oak_slab" />
+  <id short="44:3" namespace="minecraft:cobblestone_slab" />
+  <id short="44:4" namespace="minecraft:brick_slab" />
+  <id short="44:5" namespace="minecraft:stone_brick_slab" />
+  <id short="44:6" namespace="minecraft:quartz_slab" />
+  <id short="44:7" namespace="minecraft:nether_brick_slab" />
+  
+  <id short="45" namespace="minecraft:bricks" />
+  <id short="46" namespace="minecraft:tnt" />
+  <id short="47" namespace="minecraft:bookshelf" />
+  <id short="48" namespace="minecraft:mossy_cobblestone" />
+  <id short="49" namespace="minecraft:obsidian" />
+  <id short="50" namespace="minecraft:torch" />
+  <id short="51" namespace="minecraft:fire" />
+  <id short="52" namespace="minecraft:spawner" />
+  <id short="53" namespace="minecraft:oak_stairs" />
+  <id short="54" namespace="minecraft:chest" />
+  <id short="55" namespace="minecraft:redstone_wire" />
+  <id short="56" namespace="minecraft:diamond_ore" />
+  <id short="57" namespace="minecraft:diamond_block" />
+  <id short="58" namespace="minecraft:crafting_table" />
+  <id short="59" namespace="minecraft:wheat" />
+  <id short="60" namespace="minecraft:farmland" />
+  <id short="61" namespace="minecraft:furnace" />
+  <id short="62" namespace="minecraft:furnace" property="lit:true"/>
+  <id short="63" namespace="minecraft:oak_sign" />
+  <id short="64" namespace="minecraft:oak_door" />
+  <id short="65" namespace="minecraft:ladder" />
+  <id short="66" namespace="minecraft:rail" />
+  <id short="67" namespace="minecraft:stone_stairs" />
+  <id short="68" namespace="minecraft:oak_wall_sign" />
+  <id short="69" namespace="minecraft:lever" />
+  <id short="70" namespace="minecraft:stone_pressure_plate" />
+  <id short="71" namespace="minecraft:iron_door" />
+  <id short="72" namespace="minecraft:oak_pressure_plate" />
+  <id short="73" namespace="minecraft:redstone_ore" />
+  <id short="74" namespace="minecraft:redstone_ore" property="lit:true"/>
+  <id short="75" namespace="minecraft:redstone_torch" property="lit:false"/>
+  <id short="76" namespace="minecraft:redstone_torch" />
+  <id short="77" namespace="minecraft:stone_button" />
+  <id short="78" namespace="minecraft:snow" />
+  <id short="79" namespace="minecraft:ice" />
+  <id short="80" namespace="minecraft:snow_block" />
+  <id short="81" namespace="minecraft:cactus" />
+  <id short="82" namespace="minecraft:clay" />
+  <id short="83" namespace="minecraft:sugar_cane" />
+  <id short="84" namespace="minecraft:jukebox" />
+  <id short="85" namespace="minecraft:oak_fence" />
+  <id short="86" namespace="minecraft:pumpkin" />
+  <id short="87" namespace="minecraft:netherrack" />
+  <id short="88" namespace="minecraft:soul_sand" />
+  <id short="89" namespace="minecraft:glowstone" />
+  <id short="90" namespace="minecraft:nether_portal" />
+  <id short="91" namespace="minecraft:jack_o_lantern" />
+  <id short="92" namespace="minecraft:cake" />
+  <id short="93" namespace="minecraft:repeater" property="powered:false"/>
+  <id short="94" namespace="minecraft:repeater"/>
+
+  <id short="95:0" namespace="minecraft:white_stained_glass" />
+  <id short="95:1" namespace="minecraft:orange_stained_glass" />
+  <id short="95:2" namespace="minecraft:magenta_stained_glass" />
+  <id short="95:3" namespace="minecraft:light_blue_stained_glass" />
+  <id short="95:4" namespace="minecraft:yellow_stained_glass" />
+  <id short="95:5" namespace="minecraft:lime_stained_glass" />
+  <id short="95:6" namespace="minecraft:pink_stained_glass" />
+  <id short="95:7" namespace="minecraft:gray_stained_glass" />
+  <id short="95:8" namespace="minecraft:light_gray_stained_glass" />
+  <id short="95:9" namespace="minecraft:cyan_stained_glass" />
+  <id short="95:10" namespace="minecraft:purple_stained_glass" />
+  <id short="95:11" namespace="minecraft:blue_stained_glass" />
+  <id short="95:12" namespace="minecraft:brown_stained_glass" />
+  <id short="95:13" namespace="minecraft:green_stained_glass" />
+  <id short="95:14" namespace="minecraft:red_stained_glass" />
+  <id short="95:15" namespace="minecraft:black_stained_glass" />
+  
+  <id short="96" namespace="minecraft:oak_trapdoor" />
+
+  <id short="97:0" namespace="minecraft:infested_stone" />
+  <id short="97:1" namespace="minecraft:infested_cobblestone" />
+  <id short="97:2" namespace="minecraft:infested_stone_bricks" />
+  <id short="97:3" namespace="minecraft:infested_mossy_stone_bricks" />
+  <id short="97:4" namespace="minecraft:infested_cracked_stone_bricks" />
+  <id short="97:5" namespace="minecraft:infested_chiseled_stone_bricks" />
+  
+  <id short="98:0" namespace="minecraft:stone_bricks" />
+  <id short="98:1" namespace="minecraft:mossy_stone_bricks" />
+  <id short="98:2" namespace="minecraft:cracked_stone_bricks" />
+  <id short="98:3" namespace="minecraft:chiseled_stone_bricks" />
+  <id short="98:4" namespace="minecraft:stone_bricks" /> 
+  
+  <id short="99" namespace="minecraft:brown_mushroom_block" />
+  <id short="100" namespace="minecraft:red_mushroom_block" />
+  <id short="101" namespace="minecraft:iron_bars" />
+  <id short="102" namespace="minecraft:glass_pane" />
+  <id short="103" namespace="minecraft:melon" />
+  <id short="104" namespace="minecraft:pumpkin_stem" />
+  <id short="105" namespace="minecraft:melon_stem" />
+  <id short="106" namespace="minecraft:vine" />
+  <id short="107" namespace="minecraft:oak_fence_gate" />
+  <id short="108" namespace="minecraft:brick_stairs" />
+  <id short="109" namespace="minecraft:stone_brick_stairs" />
+  <id short="110" namespace="minecraft:mycelium" />
+  <id short="111" namespace="minecraft:lily_pad" />
+  <id short="112" namespace="minecraft:nether_bricks" />
+  <id short="113" namespace="minecraft:nether_brick_fence" />
+  <id short="114" namespace="minecraft:nether_brick_stairs" />
+  <id short="115" namespace="minecraft:nether_wart" />
+  <id short="116" namespace="minecraft:enchanting_table" />
+  <id short="117" namespace="minecraft:brewing_stand" />
+  <id short="118" namespace="minecraft:cauldron" />
+  <id short="119" namespace="minecraft:end_portal" />
+  <id short="120" namespace="minecraft:end_portal_frame" />
+  <id short="121" namespace="minecraft:end_stone" />
+  <id short="122" namespace="minecraft:dragon_egg" />
+  <id short="123" namespace="minecraft:redstone_lamp" />
+  <id short="124" namespace="minecraft:redstone_lamp" property="lit:true"/>
+
+  <id short="125:0" namespace="minecraft:oak_slab" property="type:double"/>
+  <id short="125:1" namespace="minecraft:spruce_slab" property="type:double"/>
+  <id short="125:2" namespace="minecraft:birch_slab" property="type:double"/>
+  <id short="125:3" namespace="minecraft:jungle_slab" property="type:double"/>
+  <id short="125:4" namespace="minecraft:acacia_slab" property="type:double"/>
+  <id short="125:5" namespace="minecraft:dark_oak_slab" property="type:double"/>
+
+  <id short="126:0" namespace="minecraft:oak_slab" />
+  <id short="126:1" namespace="minecraft:spruce_slab" />
+  <id short="126:2" namespace="minecraft:birch_slab" />
+  <id short="126:3" namespace="minecraft:jungle_slab" />
+  <id short="126:4" namespace="minecraft:acacia_slab" />
+  <id short="126:5" namespace="minecraft:dark_oak_slab" />
+  
+  <id short="127" namespace="minecraft:cocoa" />
+  <id short="128" namespace="minecraft:sandstone_stairs" />
+  <id short="129" namespace="minecraft:emerald_ore" />
+  <id short="130" namespace="minecraft:ender_chest" />
+  <id short="131" namespace="minecraft:tripwire_hook" />
+  <id short="132" namespace="minecraft:tripwire" />
+  <id short="133" namespace="minecraft:emerald_block" />
+  <id short="134" namespace="minecraft:spruce_stairs" />
+  <id short="135" namespace="minecraft:birch_stairs" />
+  <id short="136" namespace="minecraft:jungle_stairs" />
+  <id short="137" namespace="minecraft:command_block" />
+  <id short="138" namespace="minecraft:beacon" />
+  <id short="139" namespace="minecraft:cobblestone_wall" />
+  <id short="140" namespace="minecraft:flower_pot" />
+  <id short="141" namespace="minecraft:carrots" />
+  <id short="142" namespace="minecraft:potatoes" />
+  <id short="143" namespace="minecraft:oak_button" />
+  
+  <!-- =============================== -->
+  <id short="144" namespace="minecraft:skeleton_skull" />
+  <!-- =============================== -->
+
+  <id short="145" namespace="minecraft:anvil" />
+  <id short="146" namespace="minecraft:trapped_chest" />
+  <id short="147" namespace="minecraft:light_weighted_pressure_plate" />
+  <id short="148" namespace="minecraft:heavy_weighted_pressure_plate" />
+  <id short="149" namespace="minecraft:comparator" property="powered:false"/>
+  <id short="150" namespace="minecraft:comparator" property="powered:true"/>
+  <id short="151" namespace="minecraft:daylight_detector" />
+  <id short="152" namespace="minecraft:redstone_block" />
+  <id short="153" namespace="minecraft:nether_quartz_ore" />
+  <id short="154" namespace="minecraft:hopper" />
+  
+  <id short="155:0" namespace="minecraft:quartz_block" />
+  <id short="155:1" namespace="minecraft:chiseled_quartz_block" />
+  <id short="155:2" namespace="minecraft:quartz_pillar" />
+  
+  <id short="156" namespace="minecraft:quartz_stairs" />
+  <id short="157" namespace="minecraft:activator_rail" />
+  <id short="158" namespace="minecraft:dropper" />
+
+  <id short="159:0" namespace="minecraft:white_terracotta" />
+  <id short="159:1" namespace="minecraft:orange_terracotta" />
+  <id short="159:2" namespace="minecraft:magenta_terracotta" />
+  <id short="159:3" namespace="minecraft:light_blue_terracotta" />
+  <id short="159:4" namespace="minecraft:yellow_terracotta" />
+  <id short="159:5" namespace="minecraft:lime_terracotta" />
+  <id short="159:6" namespace="minecraft:pink_terracotta" />
+  <id short="159:7" namespace="minecraft:gray_terracotta" />
+  <id short="159:8" namespace="minecraft:light_gray_terracotta" />
+  <id short="159:9" namespace="minecraft:cyan_terracotta" />
+  <id short="159:10" namespace="minecraft:purple_terracotta" />
+  <id short="159:11" namespace="minecraft:blue_terracotta" />
+  <id short="159:12" namespace="minecraft:brown_terracotta" />
+  <id short="159:13" namespace="minecraft:green_terracotta" />
+  <id short="159:14" namespace="minecraft:red_terracotta" />
+  <id short="159:15" namespace="minecraft:black_terracotta" />
+
+  <id short="160:0" namespace="minecraft:white_stained_glass_pane" />
+  <id short="160:1" namespace="minecraft:orange_stained_glass_pane" />
+  <id short="160:2" namespace="minecraft:magenta_stained_glass_pane" />
+  <id short="160:3" namespace="minecraft:light_blue_stained_glass_pane" />
+  <id short="160:4" namespace="minecraft:yellow_stained_glass_pane" />
+  <id short="160:5" namespace="minecraft:lime_stained_glass_pane" />
+  <id short="160:6" namespace="minecraft:pink_stained_glass_pane" />
+  <id short="160:7" namespace="minecraft:gray_stained_glass_pane" />
+  <id short="160:8" namespace="minecraft:light_gray_stained_glass_pane" />
+  <id short="160:9" namespace="minecraft:cyan_stained_glass_pane" />
+  <id short="160:10" namespace="minecraft:purple_stained_glass_pane" />
+  <id short="160:11" namespace="minecraft:blue_stained_glass_pane" />
+  <id short="160:12" namespace="minecraft:brown_stained_glass_pane" />
+  <id short="160:13" namespace="minecraft:green_stained_glass_pane" />
+  <id short="160:14" namespace="minecraft:red_stained_glass_pane" />
+  <id short="160:15" namespace="minecraft:black_stained_glass_pane" />
+  
+  <id short="161:0" namespace="minecraft:acacia_leaves" />
+  <id short="161:1" namespace="minecraft:dark_oak_leaves" />
+  
+  <id short="162:0" namespace="minecraft:acacia_log" />
+  <id short="162:1" namespace="minecraft:dark_oak_log" />
+  
+  <id short="163" namespace="minecraft:acacia_stairs" />
+  <id short="164" namespace="minecraft:dark_oak_stairs" />
+  <id short="165" namespace="minecraft:slime_block" />
+  <id short="166" namespace="minecraft:barrier" />
+  <id short="167" namespace="minecraft:iron_trapdoor" />
+  
+  <id short="168:0" namespace="minecraft:prismarine" />
+  <id short="168:1" namespace="minecraft:dark_prismarine" />
+  <id short="168:2" namespace="minecraft:prismarine_bricks" />
+  
+  <id short="169" namespace="minecraft:sea_lantern" />
+  <id short="170" namespace="minecraft:hay_block" />
+  
+  <id short="171:0" namespace="minecraft:white_carpet" />
+  <id short="171:1" namespace="minecraft:orange_carpet" />
+  <id short="171:2" namespace="minecraft:magenta_carpet" />
+  <id short="171:3" namespace="minecraft:light_blue_carpet" />
+  <id short="171:4" namespace="minecraft:yellow_carpet" />
+  <id short="171:5" namespace="minecraft:lime_carpet" />
+  <id short="171:6" namespace="minecraft:pink_carpet" />
+  <id short="171:7" namespace="minecraft:gray_carpet" />
+  <id short="171:8" namespace="minecraft:light_gray_carpet" />
+  <id short="171:9" namespace="minecraft:cyan_carpet" />
+  <id short="171:10" namespace="minecraft:purple_carpet" />
+  <id short="171:11" namespace="minecraft:blue_carpet" />
+  <id short="171:12" namespace="minecraft:brown_carpet" />
+  <id short="171:13" namespace="minecraft:green_carpet" />
+  <id short="171:14" namespace="minecraft:red_carpet" />
+  <id short="171:15" namespace="minecraft:black_carpet" />
+  
+  <id short="172" namespace="minecraft:terracotta" />
+  <id short="173" namespace="minecraft:coal_block" />
+  <id short="174" namespace="minecraft:packed_ice" />
+  
+  <id short="175:0" namespace="minecraft:sunflower" />
+  <id short="175:1" namespace="minecraft:lilac" />
+  <id short="175:2" namespace="minecraft:tall_grass" />
+  <id short="175:3" namespace="minecraft:large_fern" />
+  <id short="175:4" namespace="minecraft:rose_bush" />
+  <id short="175:5" namespace="minecraft:peony" />
+  
+  <id short="176:0" namespace="minecraft:white_banner" />
+  <id short="176:1" namespace="minecraft:orange_banner" />
+  <id short="176:2" namespace="minecraft:magenta_banner" />
+  <id short="176:3" namespace="minecraft:light_blue_banner" />
+  <id short="176:4" namespace="minecraft:yellow_banner" />
+  <id short="176:5" namespace="minecraft:lime_banner" />
+  <id short="176:6" namespace="minecraft:pink_banner" />
+  <id short="176:7" namespace="minecraft:gray_banner" />
+  <id short="176:8" namespace="minecraft:light_gray_banner" />
+  <id short="176:9" namespace="minecraft:cyan_banner" />
+  <id short="176:10" namespace="minecraft:purple_banner" />
+  <id short="176:11" namespace="minecraft:blue_banner" />
+  <id short="176:12" namespace="minecraft:brown_banner" />
+  <id short="176:13" namespace="minecraft:green_banner" />
+  <id short="176:14" namespace="minecraft:red_banner" />
+  <id short="176:15" namespace="minecraft:black_banner" />
+  
+  <id short="177:0" namespace="minecraft:white_wall_banner" />
+  <id short="177:1" namespace="minecraft:orange_wall_banner" />
+  <id short="177:2" namespace="minecraft:magenta_wall_banner" />
+  <id short="177:3" namespace="minecraft:light_blue_wall_banner" />
+  <id short="177:4" namespace="minecraft:yellow_wall_banner" />
+  <id short="177:5" namespace="minecraft:lime_wall_banner" />
+  <id short="177:6" namespace="minecraft:pink_wall_banner" />
+  <id short="177:7" namespace="minecraft:gray_wall_banner" />
+  <id short="177:8" namespace="minecraft:light_gray_wall_banner" />
+  <id short="177:9" namespace="minecraft:cyan_wall_banner" />
+  <id short="177:10" namespace="minecraft:purple_wall_banner" />
+  <id short="177:11" namespace="minecraft:blue_wall_banner" />
+  <id short="177:12" namespace="minecraft:brown_wall_banner" />
+  <id short="177:13" namespace="minecraft:green_wall_banner" />
+  <id short="177:14" namespace="minecraft:red_wall_banner" />
+  <id short="177:15" namespace="minecraft:black_wall_banner" />
+  
+  <id short="178" namespace="minecraft:daylight_detector" property="inverted:true"/>
+  
+  <id short="179:0" namespace="minecraft:red_sandstone" />
+  <id short="179:1" namespace="minecraft:chiseled_red_sandstone" />
+  <id short="179:2" namespace="minecraft:cut_red_sandstone" />
+  
+  <id short="180" namespace="minecraft:red_sandstone_stairs" />
+  
+  <id short="181:0" namespace="minecraft:red_sandstone_slab" property="type:double"/>
+  <id short="181:1" namespace="minecraft:cut_red_sandstone_slab" property="type:double" />
+  
+  <id short="182" namespace="minecraft:red_sandstone_slab" />
+  <id short="183" namespace="minecraft:spruce_fence_gate" />
+  <id short="184" namespace="minecraft:birch_fence_gate" />
+  <id short="185" namespace="minecraft:jungle_fence_gate" />
+  <id short="186" namespace="minecraft:dark_oak_fence_gate" />
+  <id short="187" namespace="minecraft:acacia_fence_gate" />
+  <id short="188" namespace="minecraft:spruce_fence" />
+  <id short="189" namespace="minecraft:birch_fence" />
+  <id short="190" namespace="minecraft:jungle_fence" />
+  <id short="191" namespace="minecraft:dark_oak_fence" />
+  <id short="192" namespace="minecraft:acacia_fence" />
+  <id short="193" namespace="minecraft:spruce_door" />
+  <id short="194" namespace="minecraft:birch_door" />
+  <id short="195" namespace="minecraft:jungle_door" />
+  <id short="196" namespace="minecraft:acacia_door" />
+  <id short="197" namespace="minecraft:dark_oak_door" />
+  <id short="198" namespace="minecraft:end_rod" />
+  <id short="199" namespace="minecraft:chorus_plant" />
+  <id short="200" namespace="minecraft:chorus_flower" />
+  <id short="201" namespace="minecraft:purpur_block" />
+  <id short="202" namespace="minecraft:purpur_pillar" />
+  <id short="203" namespace="minecraft:purpur_stairs" />
+  <id short="204" namespace="minecraft:purpur_slab" property="type:double"/>
+  <id short="205" namespace="minecraft:purpur_slab" />
+  <id short="206" namespace="minecraft:end_stone_bricks" />
+  <id short="207" namespace="minecraft:beetroots" />
+  <id short="208" namespace="minecraft:grass_path" />
+  <id short="209" namespace="minecraft:end_gateway" />
+  <id short="210" namespace="minecraft:repeating_command_block" />
+  <id short="211" namespace="minecraft:chain_command_block" />
+  <id short="212" namespace="minecraft:frosted_ice" />
+  <id short="213" namespace="minecraft:magma_block" />
+  <id short="214" namespace="minecraft:nether_wart_block" />
+  <id short="215" namespace="minecraft:red_nether_bricks" />
+  <id short="216" namespace="minecraft:bone_block" />
+  <id short="217" namespace="minecraft:structure_void" />
+  <id short="218" namespace="minecraft:observer" />
+  <id short="219" namespace="minecraft:white_shulker_box" />
+  <id short="220" namespace="minecraft:orange_shulker_box" />
+  <id short="221" namespace="minecraft:magenta_shulker_box" />
+  <id short="222" namespace="minecraft:light_blue_shulker_box" />
+  <id short="223" namespace="minecraft:yellow_shulker_box" />
+  <id short="224" namespace="minecraft:lime_shulker_box" />
+  <id short="225" namespace="minecraft:pink_shulker_box" />
+  <id short="226" namespace="minecraft:gray_shulker_box" />
+  <id short="227" namespace="minecraft:light_gray_shulker_box" />
+  <id short="228" namespace="minecraft:cyan_shulker_box" />
+  <id short="229" namespace="minecraft:purple_shulker_box" />
+  <id short="230" namespace="minecraft:blue_shulker_box" />
+  <id short="231" namespace="minecraft:brown_shulker_box" />
+  <id short="232" namespace="minecraft:green_shulker_box" />
+  <id short="233" namespace="minecraft:red_shulker_box" />
+  <id short="234" namespace="minecraft:black_shulker_box" />
+  <id short="235" namespace="minecraft:white_glazed_terracotta" />
+  <id short="236" namespace="minecraft:orange_glazed_terracotta" />
+  <id short="237" namespace="minecraft:magenta_glazed_terracotta" />
+  <id short="238" namespace="minecraft:light_blue_glazed_terracotta" />
+  <id short="239" namespace="minecraft:yellow_glazed_terracotta" />
+  <id short="240" namespace="minecraft:lime_glazed_terracotta" />
+  <id short="241" namespace="minecraft:pink_glazed_terracotta" />
+  <id short="242" namespace="minecraft:gray_glazed_terracotta" />
+  <id short="243" namespace="minecraft:light_gray_glazed_terracotta" />
+  <id short="244" namespace="minecraft:cyan_glazed_terracotta" />
+  <id short="245" namespace="minecraft:purple_glazed_terracotta" />
+  <id short="246" namespace="minecraft:blue_glazed_terracotta" />
+  <id short="247" namespace="minecraft:brown_glazed_terracotta" />
+  <id short="248" namespace="minecraft:green_glazed_terracotta" />
+  <id short="249" namespace="minecraft:red_glazed_terracotta" />
+  <id short="250" namespace="minecraft:black_glazed_terracotta" />
+  
+  <id short="251:0" namespace="minecraft:white_concrete" />
+  <id short="251:1" namespace="minecraft:orange_concrete" />
+  <id short="251:2" namespace="minecraft:magenta_concrete" />
+  <id short="251:3" namespace="minecraft:light_blue_concrete" />
+  <id short="251:4" namespace="minecraft:yellow_concrete" />
+  <id short="251:5" namespace="minecraft:lime_concrete" />
+  <id short="251:6" namespace="minecraft:pink_concrete" />
+  <id short="251:7" namespace="minecraft:gray_concrete" />
+  <id short="251:8" namespace="minecraft:light_gray_concrete" />
+  <id short="251:9" namespace="minecraft:cyan_concrete" />
+  <id short="251:10" namespace="minecraft:purple_concrete" />
+  <id short="251:11" namespace="minecraft:blue_concrete" />
+  <id short="251:12" namespace="minecraft:brown_concrete" />
+  <id short="251:13" namespace="minecraft:green_concrete" />
+  <id short="251:14" namespace="minecraft:red_concrete" />
+  <id short="251:15" namespace="minecraft:black_concrete" />
+  
+  <id short="252:0" namespace="minecraft:white_concrete_powder" /> 
+  <id short="252:1" namespace="minecraft:orange_concrete_powder" /> 
+  <id short="252:2" namespace="minecraft:magenta_concrete_powder" /> 
+  <id short="252:3" namespace="minecraft:light_blue_concrete_powder" /> 
+  <id short="252:4" namespace="minecraft:yellow_concrete_powder" /> 
+  <id short="252:5" namespace="minecraft:lime_concrete_powder" /> 
+  <id short="252:6" namespace="minecraft:pink_concrete_powder" /> 
+  <id short="252:7" namespace="minecraft:gray_concrete_powder" /> 
+  <id short="252:8" namespace="minecraft:light_gray_concrete_powder" /> 
+  <id short="252:9" namespace="minecraft:cyan_concrete_powder" /> 
+  <id short="252:10" namespace="minecraft:purple_concrete_powder" /> 
+  <id short="252:11" namespace="minecraft:blue_concrete_powder" /> 
+  <id short="252:12" namespace="minecraft:brown_concrete_powder" /> 
+  <id short="252:13" namespace="minecraft:green_concrete_powder" /> 
+  <id short="252:14" namespace="minecraft:red_concrete_powder" /> 
+  <id short="252:15" namespace="minecraft:black_concrete_powder" /> 
+  
+  <id short="255:0" namespace="minecraft:structure_block" property="data:save"/> 
+  <id short="255:1" namespace="minecraft:structure_block" property="data:load" /> 
+  <id short="255:2" namespace="minecraft:structure_block" property="data:corner" /> 
+  <id short="255:3" namespace="minecraft:structure_block" property="data:data" /> 
+</block>

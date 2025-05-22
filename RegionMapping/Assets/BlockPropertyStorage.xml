@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <height-exception>
+    <block namespace="minecraft:grass" ignore="1"/>
+    <block namespace="minecraft:tall_grass" ignore="2"/>
+    <block namespace="minecraft:fern" ignore="1"/>
+    <block namespace="minecraft:large_fern" ignore="2"/>
+    <block namespace="minecraft:dead_bush" ignore="1"/>
+  </height-exception>
+  <height-exception-undefined>
+    <block namespace="minecraft:kelp"/>
+    <block namespace="minecraft:kelp_plant"/>
+    <block namespace="minecraft:seagrass"/>
+    <block namespace="minecraft:tall_seagrass"/>
+  </height-exception-undefined>
+  <shadow-exception>
+    <block namespace="minecraft:tube_coral"/>
+    <block namespace="minecraft:brain_coral"/>
+    <block namespace="minecraft:bubble_coral"/>
+    <block namespace="minecraft:fire_coral"/>
+    <block namespace="minecraft:horn_coral"/>
+    <block namespace="minecraft:dead_tube_coral"/>
+    <block namespace="minecraft:dead_brain_coral"/>
+    <block namespace="minecraft:dead_bubble_coral"/>
+    <block namespace="minecraft:dead_fire_coral"/>
+    <block namespace="minecraft:dead_horn_coral"/>
+    <block namespace="minecraft:bamboo"/>
+    <block namespace="minecraft:lily_pad"/>
+  </shadow-exception>
+</root>
